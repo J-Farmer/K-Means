@@ -1,0 +1,3522 @@
+Number of Clusters: 80
+Run: 1
+SSE - Iteration 0: 2331.4193692339895
+SSE - Iteration 1: 2050.353132970532
+SSE - Iteration 2: 1979.5414825195865
+SSE - Iteration 3: 1935.7336382640879
+SSE - Iteration 4: 1903.7066165950941
+SSE - Iteration 5: 1877.8869783536995
+SSE - Iteration 6: 1861.1454591555282
+SSE - Iteration 7: 1851.6671024282664
+SSE - Iteration 8: 1842.9751159608084
+SSE - Iteration 9: 1833.1657017674129
+SSE - Iteration 10: 1823.6965744976612
+SSE - Iteration 11: 1815.16042018943
+SSE - Iteration 12: 1809.5391231843437
+SSE - Iteration 13: 1806.1505812131156
+SSE - Iteration 14: 1803.5307636458028
+SSE - Iteration 15: 1801.177812297577
+SSE - Iteration 16: 1798.7254917764863
+SSE - Iteration 17: 1796.1938830567562
+SSE - Iteration 18: 1794.078696176992
+SSE - Iteration 19: 1792.3620315835033
+Initial SSE: 2331.4193692339895
+Final SSE: 1792.3620315835033
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 5967 ms
+Total Runtime: 6072 ms
+Silhouette Time: 2475ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 2
+SSE - Iteration 0: 2344.3306880442356
+SSE - Iteration 1: 2021.6834480598393
+SSE - Iteration 2: 1951.3319228342714
+SSE - Iteration 3: 1909.2852847314498
+SSE - Iteration 4: 1881.3946036250188
+SSE - Iteration 5: 1865.3263316364753
+SSE - Iteration 6: 1853.2031194754109
+SSE - Iteration 7: 1844.5284570068318
+SSE - Iteration 8: 1837.1978193700459
+SSE - Iteration 9: 1830.8297924194146
+SSE - Iteration 10: 1825.6833009899105
+SSE - Iteration 11: 1821.14634989643
+SSE - Iteration 12: 1817.7602995979603
+SSE - Iteration 13: 1815.0046858104329
+SSE - Iteration 14: 1811.6619700062051
+SSE - Iteration 15: 1807.9452290282034
+SSE - Iteration 16: 1804.7038666719677
+SSE - Iteration 17: 1801.248235637754
+SSE - Iteration 18: 1798.9978799670903
+SSE - Iteration 19: 1797.0644733514991
+SSE - Iteration 20: 1795.2761745503315
+Initial SSE: 2344.3306880442356
+Final SSE: 1795.2761745503315
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 6478 ms
+Total Runtime: 6585 ms
+Silhouette Time: 2573ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 3
+SSE - Iteration 0: 2351.093131594691
+SSE - Iteration 1: 2067.584455328589
+SSE - Iteration 2: 1990.7776124494137
+SSE - Iteration 3: 1946.134655106791
+SSE - Iteration 4: 1914.49375987995
+SSE - Iteration 5: 1887.192763455223
+SSE - Iteration 6: 1870.1810120757702
+SSE - Iteration 7: 1861.12558162448
+SSE - Iteration 8: 1850.7197306534777
+SSE - Iteration 9: 1840.4161712084895
+SSE - Iteration 10: 1832.1494804511858
+SSE - Iteration 11: 1823.7192410308273
+SSE - Iteration 12: 1815.6463311790017
+SSE - Iteration 13: 1809.3948007544648
+SSE - Iteration 14: 1804.481960665531
+SSE - Iteration 15: 1800.700641092875
+SSE - Iteration 16: 1797.7111275963443
+SSE - Iteration 17: 1795.3277962442749
+SSE - Iteration 18: 1793.4672187400297
+SSE - Iteration 19: 1791.9615142707537
+Initial SSE: 2351.093131594691
+Final SSE: 1791.9615142707537
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 5936 ms
+Total Runtime: 6038 ms
+Silhouette Time: 2474ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 4
+SSE - Iteration 0: 2292.3122406545253
+SSE - Iteration 1: 2031.903628111692
+SSE - Iteration 2: 1955.4156052940807
+SSE - Iteration 3: 1910.6466781873346
+SSE - Iteration 4: 1881.4770958457636
+SSE - Iteration 5: 1860.584704017999
+SSE - Iteration 6: 1844.542564634778
+SSE - Iteration 7: 1833.244540211207
+SSE - Iteration 8: 1826.9043234718872
+SSE - Iteration 9: 1822.13166812395
+SSE - Iteration 10: 1817.938922950489
+SSE - Iteration 11: 1814.3948819675995
+SSE - Iteration 12: 1811.2874516069137
+SSE - Iteration 13: 1808.9915454740612
+SSE - Iteration 14: 1807.303515076643
+Initial SSE: 2292.3122406545253
+Final SSE: 1807.303515076643
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 3410 ms
+Total Runtime: 3512 ms
+Silhouette Time: 2486ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 5
+SSE - Iteration 0: 2396.2793638637495
+SSE - Iteration 1: 2097.80863854674
+SSE - Iteration 2: 2009.3612072376677
+SSE - Iteration 3: 1956.6286259041847
+SSE - Iteration 4: 1925.433504689209
+SSE - Iteration 5: 1902.6510828837427
+SSE - Iteration 6: 1883.9570796018265
+SSE - Iteration 7: 1868.6185271329584
+SSE - Iteration 8: 1855.69354051722
+SSE - Iteration 9: 1846.841550134875
+SSE - Iteration 10: 1839.3208653356178
+SSE - Iteration 11: 1832.065973124173
+SSE - Iteration 12: 1824.6104970264762
+SSE - Iteration 13: 1817.893547503574
+SSE - Iteration 14: 1813.0895633141165
+SSE - Iteration 15: 1810.5615581330057
+SSE - Iteration 16: 1808.787357480053
+Initial SSE: 2396.2793638637495
+Final SSE: 1808.787357480053
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 4287 ms
+Total Runtime: 4390 ms
+Silhouette Time: 2597ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 6
+SSE - Iteration 0: 2324.9783522927014
+SSE - Iteration 1: 2071.0874967930977
+SSE - Iteration 2: 1989.4075369522232
+SSE - Iteration 3: 1940.184617039945
+SSE - Iteration 4: 1911.2024723363947
+SSE - Iteration 5: 1890.5288983321218
+SSE - Iteration 6: 1874.2485051895592
+SSE - Iteration 7: 1862.1101108776336
+SSE - Iteration 8: 1853.2921278062313
+SSE - Iteration 9: 1846.3335120528884
+SSE - Iteration 10: 1840.7715612915306
+SSE - Iteration 11: 1835.8198725270984
+SSE - Iteration 12: 1832.0659450518685
+SSE - Iteration 13: 1828.984366501467
+SSE - Iteration 14: 1825.756766759147
+SSE - Iteration 15: 1823.2210753851862
+SSE - Iteration 16: 1821.3437241023469
+SSE - Iteration 17: 1819.5769676994894
+Initial SSE: 2324.9783522927014
+Final SSE: 1819.5769676994894
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 103 ms
+Clustering Runtime: 4766 ms
+Total Runtime: 4875 ms
+Silhouette Time: 2558ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 7
+SSE - Iteration 0: 2378.1691039045877
+SSE - Iteration 1: 2101.7998837982277
+SSE - Iteration 2: 2015.0940670669775
+SSE - Iteration 3: 1959.0412578812059
+SSE - Iteration 4: 1918.5473015321325
+SSE - Iteration 5: 1891.0075028335727
+SSE - Iteration 6: 1872.0925240498702
+SSE - Iteration 7: 1857.6809280383463
+SSE - Iteration 8: 1846.583664162398
+SSE - Iteration 9: 1838.095630978124
+SSE - Iteration 10: 1831.3809782115738
+SSE - Iteration 11: 1826.813974914194
+SSE - Iteration 12: 1822.972138581462
+SSE - Iteration 13: 1818.858029326136
+SSE - Iteration 14: 1814.7881225798894
+SSE - Iteration 15: 1810.9799163812727
+SSE - Iteration 16: 1807.393445918711
+SSE - Iteration 17: 1803.6101052509332
+SSE - Iteration 18: 1799.4496712315415
+SSE - Iteration 19: 1793.8285046506953
+SSE - Iteration 20: 1788.707254094502
+SSE - Iteration 21: 1785.118748222027
+SSE - Iteration 22: 1782.5417232937405
+SSE - Iteration 23: 1780.7723649497962
+Initial SSE: 2378.1691039045877
+Final SSE: 1780.7723649497962
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 8485 ms
+Total Runtime: 8589 ms
+Silhouette Time: 2627ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 8
+SSE - Iteration 0: 2355.2180489836082
+SSE - Iteration 1: 2059.89135853564
+SSE - Iteration 2: 1974.4969997332014
+SSE - Iteration 3: 1928.9016395617573
+SSE - Iteration 4: 1897.7848404994595
+SSE - Iteration 5: 1880.2488336232504
+SSE - Iteration 6: 1868.2979267883409
+SSE - Iteration 7: 1858.519109387508
+SSE - Iteration 8: 1850.1559566849257
+SSE - Iteration 9: 1843.349448006213
+SSE - Iteration 10: 1836.9321749367102
+SSE - Iteration 11: 1831.6192392964504
+SSE - Iteration 12: 1826.572631324682
+SSE - Iteration 13: 1820.400571617447
+SSE - Iteration 14: 1816.1890951167832
+SSE - Iteration 15: 1812.7981089330433
+SSE - Iteration 16: 1809.7574705916597
+SSE - Iteration 17: 1806.4331310720927
+SSE - Iteration 18: 1803.389939400935
+SSE - Iteration 19: 1801.217887803069
+SSE - Iteration 20: 1799.225720406943
+SSE - Iteration 21: 1797.259334633263
+SSE - Iteration 22: 1795.7554514252477
+Initial SSE: 2355.2180489836082
+Final SSE: 1795.7554514252477
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 7791 ms
+Total Runtime: 7894 ms
+Silhouette Time: 2471ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 9
+SSE - Iteration 0: 2348.323979243607
+SSE - Iteration 1: 2072.1349614134824
+SSE - Iteration 2: 1997.067487218503
+SSE - Iteration 3: 1948.7451280723021
+SSE - Iteration 4: 1917.0188161397161
+SSE - Iteration 5: 1896.0229090388075
+SSE - Iteration 6: 1881.4758829749787
+SSE - Iteration 7: 1870.9050499457446
+SSE - Iteration 8: 1862.043947669074
+SSE - Iteration 9: 1854.3758751232717
+SSE - Iteration 10: 1848.02498290977
+SSE - Iteration 11: 1841.5799500047044
+SSE - Iteration 12: 1835.4885221220472
+SSE - Iteration 13: 1829.9651822014287
+SSE - Iteration 14: 1824.8690296957777
+SSE - Iteration 15: 1820.6439091602108
+SSE - Iteration 16: 1817.0191689442868
+SSE - Iteration 17: 1813.2763657317812
+SSE - Iteration 18: 1809.3145201891884
+SSE - Iteration 19: 1806.0973845051712
+SSE - Iteration 20: 1803.053346021132
+SSE - Iteration 21: 1800.549976840356
+SSE - Iteration 22: 1799.201119823269
+Initial SSE: 2348.323979243607
+Final SSE: 1799.201119823269
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 7777 ms
+Total Runtime: 7883 ms
+Silhouette Time: 2561ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 10
+SSE - Iteration 0: 2270.4729679125107
+SSE - Iteration 1: 2011.459159868575
+SSE - Iteration 2: 1953.693372268392
+SSE - Iteration 3: 1922.5685840507756
+SSE - Iteration 4: 1898.6437717472525
+SSE - Iteration 5: 1879.9892797164969
+SSE - Iteration 6: 1864.80725886902
+SSE - Iteration 7: 1852.9197529039914
+SSE - Iteration 8: 1844.4184364004764
+SSE - Iteration 9: 1838.2635923530381
+SSE - Iteration 10: 1833.509642945589
+SSE - Iteration 11: 1830.0980106484872
+SSE - Iteration 12: 1827.5835779341917
+SSE - Iteration 13: 1825.4202443860895
+SSE - Iteration 14: 1823.9792497346086
+Initial SSE: 2270.4729679125107
+Final SSE: 1823.9792497346086
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 101 ms
+Clustering Runtime: 3418 ms
+Total Runtime: 3523 ms
+Silhouette Time: 2528ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 11
+SSE - Iteration 0: 2380.2341841233842
+SSE - Iteration 1: 2051.5498985035547
+SSE - Iteration 2: 1985.6457662585995
+SSE - Iteration 3: 1952.2849348036252
+SSE - Iteration 4: 1931.004578787773
+SSE - Iteration 5: 1915.0053577043914
+SSE - Iteration 6: 1903.2704087235034
+SSE - Iteration 7: 1893.4570215006509
+SSE - Iteration 8: 1884.4608782491955
+SSE - Iteration 9: 1875.8461727322967
+SSE - Iteration 10: 1867.407436094849
+SSE - Iteration 11: 1859.4405538863732
+SSE - Iteration 12: 1851.1712655218955
+SSE - Iteration 13: 1844.0294311233795
+SSE - Iteration 14: 1838.7849356705133
+SSE - Iteration 15: 1834.6860165019775
+SSE - Iteration 16: 1831.593004110692
+SSE - Iteration 17: 1829.0702286858736
+SSE - Iteration 18: 1827.207002920508
+SSE - Iteration 19: 1825.7579434143477
+Initial SSE: 2380.2341841233842
+Final SSE: 1825.7579434143477
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 5876 ms
+Total Runtime: 5979 ms
+Silhouette Time: 2578ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 12
+SSE - Iteration 0: 2445.691528826089
+SSE - Iteration 1: 2102.5377848062376
+SSE - Iteration 2: 2014.4312260520378
+SSE - Iteration 3: 1971.1322470000641
+SSE - Iteration 4: 1943.0285601759697
+SSE - Iteration 5: 1922.3287985764784
+SSE - Iteration 6: 1905.9481588450324
+SSE - Iteration 7: 1888.7800105598835
+SSE - Iteration 8: 1874.5607767175259
+SSE - Iteration 9: 1867.0686063692583
+SSE - Iteration 10: 1862.313609646051
+SSE - Iteration 11: 1857.9784375515076
+SSE - Iteration 12: 1853.386333241179
+SSE - Iteration 13: 1848.3835052184752
+SSE - Iteration 14: 1844.461826024144
+SSE - Iteration 15: 1841.6039603181127
+SSE - Iteration 16: 1839.5586048084165
+SSE - Iteration 17: 1837.9654847503377
+Initial SSE: 2445.691528826089
+Final SSE: 1837.9654847503377
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 4762 ms
+Total Runtime: 4867 ms
+Silhouette Time: 2565ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 13
+SSE - Iteration 0: 2290.8399375099743
+SSE - Iteration 1: 2023.6440900345135
+SSE - Iteration 2: 1951.662473848052
+SSE - Iteration 3: 1916.1093625348533
+SSE - Iteration 4: 1895.0421850480127
+SSE - Iteration 5: 1879.3421786837187
+SSE - Iteration 6: 1866.0984112314266
+SSE - Iteration 7: 1854.5514494055312
+SSE - Iteration 8: 1845.4898890483
+SSE - Iteration 9: 1838.2792455033382
+SSE - Iteration 10: 1831.674941420792
+SSE - Iteration 11: 1826.899166434732
+SSE - Iteration 12: 1823.1424665490283
+SSE - Iteration 13: 1820.0965735683794
+SSE - Iteration 14: 1817.2349214791748
+SSE - Iteration 15: 1815.3305276813362
+SSE - Iteration 16: 1813.8086019303323
+Initial SSE: 2290.8399375099743
+Final SSE: 1813.8086019303323
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 104 ms
+Clustering Runtime: 4266 ms
+Total Runtime: 4376 ms
+Silhouette Time: 2529ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 14
+SSE - Iteration 0: 2500.448727297603
+SSE - Iteration 1: 2103.7665062104998
+SSE - Iteration 2: 2005.418427896581
+SSE - Iteration 3: 1956.219174020964
+SSE - Iteration 4: 1928.8774031998519
+SSE - Iteration 5: 1909.2340355690224
+SSE - Iteration 6: 1894.1806561043545
+SSE - Iteration 7: 1882.3099422980356
+SSE - Iteration 8: 1872.7004752749574
+SSE - Iteration 9: 1860.726380501454
+SSE - Iteration 10: 1853.3958408906833
+SSE - Iteration 11: 1848.4871693193825
+SSE - Iteration 12: 1844.8093587589076
+SSE - Iteration 13: 1841.7402079088645
+SSE - Iteration 14: 1838.9962291543673
+SSE - Iteration 15: 1836.2263102567135
+SSE - Iteration 16: 1833.8852251345363
+SSE - Iteration 17: 1831.7219295684629
+SSE - Iteration 18: 1829.6893092745306
+SSE - Iteration 19: 1827.9638278929988
+Initial SSE: 2500.448727297603
+Final SSE: 1827.9638278929988
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 5843 ms
+Total Runtime: 5947 ms
+Silhouette Time: 2642ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 15
+SSE - Iteration 0: 2318.4524584999067
+SSE - Iteration 1: 2055.078434979608
+SSE - Iteration 2: 1982.4214157464492
+SSE - Iteration 3: 1940.2553841528952
+SSE - Iteration 4: 1912.0763602737943
+SSE - Iteration 5: 1895.061430325363
+SSE - Iteration 6: 1883.041414514307
+SSE - Iteration 7: 1874.4257247229402
+SSE - Iteration 8: 1867.0902493869041
+SSE - Iteration 9: 1860.2344397992604
+SSE - Iteration 10: 1854.4221386182737
+SSE - Iteration 11: 1848.633985117513
+SSE - Iteration 12: 1843.3454240775143
+SSE - Iteration 13: 1837.8451741351462
+SSE - Iteration 14: 1830.4874166814886
+SSE - Iteration 15: 1821.7502564559231
+SSE - Iteration 16: 1814.4557510116524
+SSE - Iteration 17: 1809.4791977807665
+SSE - Iteration 18: 1805.6301409950402
+SSE - Iteration 19: 1803.401571584598
+SSE - Iteration 20: 1801.9592548935832
+Initial SSE: 2318.4524584999067
+Final SSE: 1801.9592548935832
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 109 ms
+Clustering Runtime: 6454 ms
+Total Runtime: 6568 ms
+Silhouette Time: 2660ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 16
+SSE - Iteration 0: 2350.612065624069
+SSE - Iteration 1: 2042.0891857200957
+SSE - Iteration 2: 1964.4243474322234
+SSE - Iteration 3: 1915.7272068239272
+SSE - Iteration 4: 1891.3035238794987
+SSE - Iteration 5: 1875.9791337314527
+SSE - Iteration 6: 1865.2315732294335
+SSE - Iteration 7: 1856.9055190286101
+SSE - Iteration 8: 1850.581876381178
+SSE - Iteration 9: 1845.4192008993973
+SSE - Iteration 10: 1841.615365862229
+SSE - Iteration 11: 1838.3232940982357
+SSE - Iteration 12: 1834.6795829938865
+SSE - Iteration 13: 1830.4167340568379
+SSE - Iteration 14: 1826.7155976742415
+SSE - Iteration 15: 1823.0291538964536
+SSE - Iteration 16: 1820.061551766159
+SSE - Iteration 17: 1817.4989129199778
+SSE - Iteration 18: 1815.3773344990916
+SSE - Iteration 19: 1813.8088103870798
+Initial SSE: 2350.612065624069
+Final SSE: 1813.8088103870798
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 6003 ms
+Total Runtime: 6109 ms
+Silhouette Time: 2552ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 17
+SSE - Iteration 0: 2430.9030076571953
+SSE - Iteration 1: 2074.7746831355553
+SSE - Iteration 2: 1985.3495699821954
+SSE - Iteration 3: 1936.0927516163347
+SSE - Iteration 4: 1900.9571278326944
+SSE - Iteration 5: 1877.3588440849142
+SSE - Iteration 6: 1861.050838099412
+SSE - Iteration 7: 1846.1041711847436
+SSE - Iteration 8: 1836.3904892847945
+SSE - Iteration 9: 1830.3907829567886
+SSE - Iteration 10: 1826.9277029489074
+SSE - Iteration 11: 1824.2531075335653
+SSE - Iteration 12: 1821.2976102619098
+SSE - Iteration 13: 1818.071911608441
+SSE - Iteration 14: 1814.4692547804561
+SSE - Iteration 15: 1810.5796610718842
+SSE - Iteration 16: 1806.3182220399228
+SSE - Iteration 17: 1803.264671325477
+SSE - Iteration 18: 1801.6298756782965
+Initial SSE: 2430.9030076571953
+Final SSE: 1801.6298756782965
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 97 ms
+Clustering Runtime: 5280 ms
+Total Runtime: 5381 ms
+Silhouette Time: 2594ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 18
+SSE - Iteration 0: 2339.8667744847376
+SSE - Iteration 1: 2061.2639019431604
+SSE - Iteration 2: 1992.4810595995202
+SSE - Iteration 3: 1956.0227539416203
+SSE - Iteration 4: 1931.2685745028193
+SSE - Iteration 5: 1910.9486559376196
+SSE - Iteration 6: 1895.3999437242499
+SSE - Iteration 7: 1881.0920655043308
+SSE - Iteration 8: 1866.3499658777723
+SSE - Iteration 9: 1854.9204149307502
+SSE - Iteration 10: 1846.6946104453846
+SSE - Iteration 11: 1839.8268395454718
+SSE - Iteration 12: 1834.047284629514
+SSE - Iteration 13: 1829.9064464424735
+SSE - Iteration 14: 1826.7636029690523
+SSE - Iteration 15: 1824.3342431941685
+SSE - Iteration 16: 1822.2801335897593
+SSE - Iteration 17: 1820.3044487804218
+SSE - Iteration 18: 1818.2880460109202
+SSE - Iteration 19: 1816.6266377512713
+Initial SSE: 2339.8667744847376
+Final SSE: 1816.6266377512713
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 103 ms
+Clustering Runtime: 5881 ms
+Total Runtime: 5989 ms
+Silhouette Time: 2639ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 19
+SSE - Iteration 0: 2449.4408859114756
+SSE - Iteration 1: 2085.8906090536675
+SSE - Iteration 2: 1997.4591175002224
+SSE - Iteration 3: 1951.5349329597873
+SSE - Iteration 4: 1924.262131540356
+SSE - Iteration 5: 1903.3599385051787
+SSE - Iteration 6: 1884.3285120844628
+SSE - Iteration 7: 1870.5441019300495
+SSE - Iteration 8: 1860.7398696767966
+SSE - Iteration 9: 1852.4827832124433
+SSE - Iteration 10: 1845.9998229643704
+SSE - Iteration 11: 1840.784898843266
+SSE - Iteration 12: 1836.8836109305514
+SSE - Iteration 13: 1833.8873637973652
+SSE - Iteration 14: 1831.0660390039134
+SSE - Iteration 15: 1828.638143527836
+SSE - Iteration 16: 1826.009504582983
+SSE - Iteration 17: 1823.1824367896784
+SSE - Iteration 18: 1820.619482446968
+SSE - Iteration 19: 1818.3267362703207
+SSE - Iteration 20: 1816.0766680683942
+SSE - Iteration 21: 1813.6944204860372
+SSE - Iteration 22: 1811.2313006511868
+SSE - Iteration 23: 1809.1704843854516
+SSE - Iteration 24: 1807.550202325651
+Initial SSE: 2449.4408859114756
+Final SSE: 1807.550202325651
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 101 ms
+Clustering Runtime: 9048 ms
+Total Runtime: 9153 ms
+Silhouette Time: 2695ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 20
+SSE - Iteration 0: 2308.9481448369143
+SSE - Iteration 1: 2022.7151211840087
+SSE - Iteration 2: 1956.9333755036448
+SSE - Iteration 3: 1915.2226512505008
+SSE - Iteration 4: 1887.01662459643
+SSE - Iteration 5: 1869.73972322449
+SSE - Iteration 6: 1858.3791675876193
+SSE - Iteration 7: 1849.9709816424345
+SSE - Iteration 8: 1843.3730259361666
+SSE - Iteration 9: 1838.4469735869075
+SSE - Iteration 10: 1833.6835126793412
+SSE - Iteration 11: 1828.4544216872614
+SSE - Iteration 12: 1824.8258367569701
+SSE - Iteration 13: 1821.6747046042851
+SSE - Iteration 14: 1818.660175781299
+SSE - Iteration 15: 1815.64929908484
+SSE - Iteration 16: 1812.570523815998
+SSE - Iteration 17: 1808.9826735622926
+SSE - Iteration 18: 1805.9190246501885
+SSE - Iteration 19: 1804.2787159879067
+Initial SSE: 2308.9481448369143
+Final SSE: 1804.2787159879067
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 5938 ms
+Total Runtime: 6042 ms
+Silhouette Time: 2632ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 21
+SSE - Iteration 0: 2339.571497736238
+SSE - Iteration 1: 2061.5523453301466
+SSE - Iteration 2: 1984.7298016866403
+SSE - Iteration 3: 1944.7512717908673
+SSE - Iteration 4: 1917.0780812417913
+SSE - Iteration 5: 1896.3362976090507
+SSE - Iteration 6: 1879.3208892274156
+SSE - Iteration 7: 1866.9533377397895
+SSE - Iteration 8: 1859.5812219941126
+SSE - Iteration 9: 1854.0524026427877
+SSE - Iteration 10: 1850.0397884004487
+SSE - Iteration 11: 1847.2541835113
+SSE - Iteration 12: 1844.6734129951674
+SSE - Iteration 13: 1842.0564090737635
+SSE - Iteration 14: 1839.6562640381826
+SSE - Iteration 15: 1837.1197341467073
+SSE - Iteration 16: 1834.5222408451136
+SSE - Iteration 17: 1831.3143562526636
+SSE - Iteration 18: 1826.6304699933667
+SSE - Iteration 19: 1823.5469030788306
+SSE - Iteration 20: 1821.3750769585026
+SSE - Iteration 21: 1819.688045336393
+Initial SSE: 2339.571497736238
+Final SSE: 1819.688045336393
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 7130 ms
+Total Runtime: 7233 ms
+Silhouette Time: 2507ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 22
+SSE - Iteration 0: 2377.9096807778465
+SSE - Iteration 1: 2076.3378050085716
+SSE - Iteration 2: 1995.147567875648
+SSE - Iteration 3: 1945.3964144028157
+SSE - Iteration 4: 1910.2539783351833
+SSE - Iteration 5: 1880.867068515176
+SSE - Iteration 6: 1859.8484622771227
+SSE - Iteration 7: 1847.5635749192907
+SSE - Iteration 8: 1840.2442178683034
+SSE - Iteration 9: 1835.0985495760958
+SSE - Iteration 10: 1831.161227651945
+SSE - Iteration 11: 1828.0881433035058
+SSE - Iteration 12: 1824.7463136259853
+SSE - Iteration 13: 1818.8558369205502
+SSE - Iteration 14: 1815.6411574117408
+SSE - Iteration 15: 1813.6207697913364
+SSE - Iteration 16: 1811.5737676000356
+SSE - Iteration 17: 1809.508821146002
+SSE - Iteration 18: 1807.3485002914679
+SSE - Iteration 19: 1805.5198192068872
+SSE - Iteration 20: 1803.487234042895
+SSE - Iteration 21: 1801.6072992487452
+SSE - Iteration 22: 1799.6502462710296
+SSE - Iteration 23: 1797.566307742803
+SSE - Iteration 24: 1795.7007964740192
+SSE - Iteration 25: 1794.1999192973522
+Initial SSE: 2377.9096807778465
+Final SSE: 1794.1999192973522
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 9818 ms
+Total Runtime: 9922 ms
+Silhouette Time: 2615ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 23
+SSE - Iteration 0: 2453.333795780219
+SSE - Iteration 1: 2094.9570706465092
+SSE - Iteration 2: 2012.7955862587312
+SSE - Iteration 3: 1965.5031643153936
+SSE - Iteration 4: 1933.105828334573
+SSE - Iteration 5: 1911.0083188164313
+SSE - Iteration 6: 1895.0005188682771
+SSE - Iteration 7: 1882.0064369251088
+SSE - Iteration 8: 1870.900721469251
+SSE - Iteration 9: 1862.0312171240284
+SSE - Iteration 10: 1854.9469211506052
+SSE - Iteration 11: 1848.3367864464383
+SSE - Iteration 12: 1841.6832512349483
+SSE - Iteration 13: 1836.3478102896454
+SSE - Iteration 14: 1832.4959311930731
+SSE - Iteration 15: 1829.3394330003828
+SSE - Iteration 16: 1826.8698228505698
+SSE - Iteration 17: 1824.9153963731085
+SSE - Iteration 18: 1822.8792762346218
+SSE - Iteration 19: 1820.7641974434423
+SSE - Iteration 20: 1818.5517051844304
+SSE - Iteration 21: 1816.249365443037
+SSE - Iteration 22: 1813.9722019548396
+SSE - Iteration 23: 1812.0817497458243
+SSE - Iteration 24: 1810.4534610857006
+Initial SSE: 2453.333795780219
+Final SSE: 1810.4534610857006
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 9071 ms
+Total Runtime: 9175 ms
+Silhouette Time: 2570ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 24
+SSE - Iteration 0: 2389.7340740687264
+SSE - Iteration 1: 2090.4477963025643
+SSE - Iteration 2: 2021.579092138474
+SSE - Iteration 3: 1980.2492339984913
+SSE - Iteration 4: 1942.6604583181872
+SSE - Iteration 5: 1915.0207377562879
+SSE - Iteration 6: 1892.7126714779936
+SSE - Iteration 7: 1872.1545250216934
+SSE - Iteration 8: 1858.762001933988
+SSE - Iteration 9: 1850.1464863054002
+SSE - Iteration 10: 1842.0986467276086
+SSE - Iteration 11: 1835.2779220032237
+SSE - Iteration 12: 1828.8044149565217
+SSE - Iteration 13: 1820.4829224608852
+SSE - Iteration 14: 1813.6039707112063
+SSE - Iteration 15: 1808.615785201002
+SSE - Iteration 16: 1804.6305709172373
+SSE - Iteration 17: 1801.8044075380456
+SSE - Iteration 18: 1799.717649121883
+SSE - Iteration 19: 1797.518233978986
+SSE - Iteration 20: 1795.9653814214298
+Initial SSE: 2389.7340740687264
+Final SSE: 1795.9653814214298
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 6556 ms
+Total Runtime: 6662 ms
+Silhouette Time: 2618ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 25
+SSE - Iteration 0: 2370.298253835992
+SSE - Iteration 1: 2072.160834470931
+SSE - Iteration 2: 1988.503195642351
+SSE - Iteration 3: 1941.464064800914
+SSE - Iteration 4: 1911.6561117435983
+SSE - Iteration 5: 1893.351211000656
+SSE - Iteration 6: 1881.5260837184983
+SSE - Iteration 7: 1871.7243763449324
+SSE - Iteration 8: 1862.599430720183
+SSE - Iteration 9: 1855.3769302005694
+SSE - Iteration 10: 1849.6673338224352
+SSE - Iteration 11: 1844.5494890132713
+SSE - Iteration 12: 1840.7982494413864
+SSE - Iteration 13: 1837.4569105807284
+SSE - Iteration 14: 1834.8994205060042
+SSE - Iteration 15: 1832.7974172817926
+SSE - Iteration 16: 1830.8124436431428
+SSE - Iteration 17: 1828.6678718134451
+SSE - Iteration 18: 1826.443650950224
+SSE - Iteration 19: 1824.431693225083
+SSE - Iteration 20: 1823.0158600125371
+Initial SSE: 2370.298253835992
+Final SSE: 1823.0158600125371
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 107 ms
+Clustering Runtime: 6667 ms
+Total Runtime: 6780 ms
+Silhouette Time: 2599ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 26
+SSE - Iteration 0: 2348.3337823012757
+SSE - Iteration 1: 2064.416809451595
+SSE - Iteration 2: 1975.4747185340354
+SSE - Iteration 3: 1931.419313870016
+SSE - Iteration 4: 1909.3172361021795
+SSE - Iteration 5: 1894.232524940357
+SSE - Iteration 6: 1882.9017388073748
+SSE - Iteration 7: 1872.7331808399113
+SSE - Iteration 8: 1863.1790133577742
+SSE - Iteration 9: 1855.6125124346613
+SSE - Iteration 10: 1850.0742489743252
+SSE - Iteration 11: 1845.7853746929495
+SSE - Iteration 12: 1842.1790657261063
+SSE - Iteration 13: 1838.562998079971
+SSE - Iteration 14: 1834.5518949260938
+SSE - Iteration 15: 1830.8601016068474
+SSE - Iteration 16: 1827.5534521649033
+SSE - Iteration 17: 1825.1130630851449
+SSE - Iteration 18: 1822.983201342295
+SSE - Iteration 19: 1821.4060928450824
+Initial SSE: 2348.3337823012757
+Final SSE: 1821.4060928450824
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 5921 ms
+Total Runtime: 6032 ms
+Silhouette Time: 2548ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 27
+SSE - Iteration 0: 2395.5477581791883
+SSE - Iteration 1: 2085.5735758804194
+SSE - Iteration 2: 1992.3022954707217
+SSE - Iteration 3: 1948.7760814404242
+SSE - Iteration 4: 1925.5388130328226
+SSE - Iteration 5: 1907.2403354436
+SSE - Iteration 6: 1892.2553665355842
+SSE - Iteration 7: 1880.3848729878234
+SSE - Iteration 8: 1872.026512029372
+SSE - Iteration 9: 1864.1471378001213
+SSE - Iteration 10: 1858.5209279224146
+SSE - Iteration 11: 1854.3682507239555
+SSE - Iteration 12: 1850.5039980956271
+SSE - Iteration 13: 1846.5202699865317
+SSE - Iteration 14: 1843.068932657836
+SSE - Iteration 15: 1839.7441406314006
+SSE - Iteration 16: 1837.0501716575632
+SSE - Iteration 17: 1835.1802497113872
+SSE - Iteration 18: 1833.653792862643
+Initial SSE: 2395.5477581791883
+Final SSE: 1833.653792862643
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 5409 ms
+Total Runtime: 5512 ms
+Silhouette Time: 2553ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 28
+SSE - Iteration 0: 2326.3134733637517
+SSE - Iteration 1: 2053.8988431133416
+SSE - Iteration 2: 1983.5464839170672
+SSE - Iteration 3: 1945.7252923608273
+SSE - Iteration 4: 1921.2775085941496
+SSE - Iteration 5: 1906.074860864168
+SSE - Iteration 6: 1893.397885985422
+SSE - Iteration 7: 1882.1181994246135
+SSE - Iteration 8: 1873.6073264553913
+SSE - Iteration 9: 1866.9460989333804
+SSE - Iteration 10: 1861.8408880636619
+SSE - Iteration 11: 1857.246543029101
+SSE - Iteration 12: 1852.70683379177
+SSE - Iteration 13: 1848.1512429603333
+SSE - Iteration 14: 1843.864513854758
+SSE - Iteration 15: 1840.50140625933
+SSE - Iteration 16: 1837.718433707898
+SSE - Iteration 17: 1835.4524499850222
+SSE - Iteration 18: 1833.324362253474
+SSE - Iteration 19: 1831.4147490370317
+SSE - Iteration 20: 1829.779245276666
+Initial SSE: 2326.3134733637517
+Final SSE: 1829.779245276666
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 101 ms
+Clustering Runtime: 6534 ms
+Total Runtime: 6640 ms
+Silhouette Time: 2540ms
+C.H. Time: 5ms
+D.B. Time: 10ms
+
+
+Run: 29
+SSE - Iteration 0: 2375.630113148968
+SSE - Iteration 1: 2062.464241818696
+SSE - Iteration 2: 1982.9285002842691
+SSE - Iteration 3: 1937.2608676721754
+SSE - Iteration 4: 1906.246630088306
+SSE - Iteration 5: 1881.8202507440892
+SSE - Iteration 6: 1862.3600713560115
+SSE - Iteration 7: 1851.6363005725407
+SSE - Iteration 8: 1845.1261585321674
+SSE - Iteration 9: 1839.928342040284
+SSE - Iteration 10: 1836.2152199232717
+SSE - Iteration 11: 1832.9744842237537
+SSE - Iteration 12: 1830.3041872017002
+SSE - Iteration 13: 1827.60538128721
+SSE - Iteration 14: 1825.0216154356192
+SSE - Iteration 15: 1822.6631795193625
+SSE - Iteration 16: 1820.2676376630145
+SSE - Iteration 17: 1817.8652856151145
+SSE - Iteration 18: 1815.6116968246747
+SSE - Iteration 19: 1813.642678774622
+SSE - Iteration 20: 1811.2321174708657
+SSE - Iteration 21: 1808.1940107148341
+SSE - Iteration 22: 1806.2213409228193
+SSE - Iteration 23: 1805.1139156404454
+Initial SSE: 2375.630113148968
+Final SSE: 1805.1139156404454
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 108 ms
+Clustering Runtime: 8412 ms
+Total Runtime: 8526 ms
+Silhouette Time: 2668ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 30
+SSE - Iteration 0: 2374.382821294907
+SSE - Iteration 1: 2083.1212517119557
+SSE - Iteration 2: 1996.1022676255982
+SSE - Iteration 3: 1955.4962118420146
+SSE - Iteration 4: 1925.7579681724346
+SSE - Iteration 5: 1900.387754192311
+SSE - Iteration 6: 1876.2354351547374
+SSE - Iteration 7: 1858.5699452137385
+SSE - Iteration 8: 1849.431609088127
+SSE - Iteration 9: 1842.4803382482153
+SSE - Iteration 10: 1835.2489296962335
+SSE - Iteration 11: 1829.3960288149221
+SSE - Iteration 12: 1825.1653842207716
+SSE - Iteration 13: 1822.216403770442
+SSE - Iteration 14: 1819.614307711613
+SSE - Iteration 15: 1816.4892608628434
+SSE - Iteration 16: 1812.1177360014083
+SSE - Iteration 17: 1807.13834911118
+SSE - Iteration 18: 1802.7848949779
+SSE - Iteration 19: 1799.8136140356821
+SSE - Iteration 20: 1797.8601361443182
+SSE - Iteration 21: 1796.113946647533
+Initial SSE: 2374.382821294907
+Final SSE: 1796.113946647533
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 7123 ms
+Total Runtime: 7226 ms
+Silhouette Time: 2615ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 31
+SSE - Iteration 0: 2428.509317235224
+SSE - Iteration 1: 2106.0761515888257
+SSE - Iteration 2: 2015.2476157153721
+SSE - Iteration 3: 1961.6944462932508
+SSE - Iteration 4: 1934.5674960615527
+SSE - Iteration 5: 1916.4281728357344
+SSE - Iteration 6: 1900.9184876119878
+SSE - Iteration 7: 1887.309808687152
+SSE - Iteration 8: 1875.1054069448153
+SSE - Iteration 9: 1865.4372187159508
+SSE - Iteration 10: 1857.6882766135852
+SSE - Iteration 11: 1852.7048202514804
+SSE - Iteration 12: 1847.7465855298024
+SSE - Iteration 13: 1838.8209426707037
+SSE - Iteration 14: 1832.0907025809372
+SSE - Iteration 15: 1829.8490773494232
+SSE - Iteration 16: 1827.6627293049012
+SSE - Iteration 17: 1825.5119179544006
+SSE - Iteration 18: 1823.5563181622529
+SSE - Iteration 19: 1821.5911423761793
+SSE - Iteration 20: 1819.6917628705646
+SSE - Iteration 21: 1817.489485435626
+SSE - Iteration 22: 1815.7027290355197
+Initial SSE: 2428.509317235224
+Final SSE: 1815.7027290355197
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 7760 ms
+Total Runtime: 7864 ms
+Silhouette Time: 2746ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 32
+SSE - Iteration 0: 2357.309206043095
+SSE - Iteration 1: 2090.089693106973
+SSE - Iteration 2: 2018.6739214346987
+SSE - Iteration 3: 1981.3887200483366
+SSE - Iteration 4: 1955.1132189702842
+SSE - Iteration 5: 1931.3013038064473
+SSE - Iteration 6: 1911.8978881033577
+SSE - Iteration 7: 1897.7870704266927
+SSE - Iteration 8: 1886.5367525712638
+SSE - Iteration 9: 1876.1888854848216
+SSE - Iteration 10: 1865.5246950547667
+SSE - Iteration 11: 1856.3586502021299
+SSE - Iteration 12: 1848.2750949268998
+SSE - Iteration 13: 1842.12444616774
+SSE - Iteration 14: 1838.194959303599
+SSE - Iteration 15: 1835.4009587043622
+SSE - Iteration 16: 1832.7667611397278
+SSE - Iteration 17: 1830.0050736561418
+SSE - Iteration 18: 1826.3009330328155
+SSE - Iteration 19: 1821.6816768117149
+SSE - Iteration 20: 1816.1258741694019
+SSE - Iteration 21: 1812.7065060664813
+SSE - Iteration 22: 1809.9198246455935
+SSE - Iteration 23: 1808.187273769176
+Initial SSE: 2357.309206043095
+Final SSE: 1808.187273769176
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 109 ms
+Clustering Runtime: 8528 ms
+Total Runtime: 8642 ms
+Silhouette Time: 2593ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 33
+SSE - Iteration 0: 2287.041219126319
+SSE - Iteration 1: 2044.1674107359545
+SSE - Iteration 2: 1989.1886469206645
+SSE - Iteration 3: 1946.604669416658
+SSE - Iteration 4: 1910.7651319533156
+SSE - Iteration 5: 1888.8893232455325
+SSE - Iteration 6: 1871.6527229831158
+SSE - Iteration 7: 1857.2452862727628
+SSE - Iteration 8: 1844.4459787027922
+SSE - Iteration 9: 1829.6299929017227
+SSE - Iteration 10: 1819.1344472962157
+SSE - Iteration 11: 1813.6075794883468
+SSE - Iteration 12: 1808.2729582014247
+SSE - Iteration 13: 1803.9428295796336
+SSE - Iteration 14: 1800.7644879095033
+SSE - Iteration 15: 1798.4089947148696
+SSE - Iteration 16: 1796.4502768726445
+SSE - Iteration 17: 1794.719289552804
+Initial SSE: 2287.041219126319
+Final SSE: 1794.719289552804
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 106 ms
+Clustering Runtime: 4878 ms
+Total Runtime: 4988 ms
+Silhouette Time: 2465ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 34
+SSE - Iteration 0: 2397.8000810045846
+SSE - Iteration 1: 2049.1540727782085
+SSE - Iteration 2: 1953.8715136161852
+SSE - Iteration 3: 1909.3730253797169
+SSE - Iteration 4: 1884.3419748754059
+SSE - Iteration 5: 1869.5667702467078
+SSE - Iteration 6: 1857.9631603966993
+SSE - Iteration 7: 1849.7450324076349
+SSE - Iteration 8: 1843.4281385239874
+SSE - Iteration 9: 1838.4392376138233
+SSE - Iteration 10: 1833.8781261016677
+SSE - Iteration 11: 1830.0158384857962
+SSE - Iteration 12: 1826.3955766193105
+SSE - Iteration 13: 1822.7917109050702
+SSE - Iteration 14: 1819.0099515561599
+SSE - Iteration 15: 1816.0188412875395
+SSE - Iteration 16: 1813.5988974765792
+SSE - Iteration 17: 1811.6615519548873
+SSE - Iteration 18: 1809.8951892268
+Initial SSE: 2397.8000810045846
+Final SSE: 1809.8951892268
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 106 ms
+Clustering Runtime: 5298 ms
+Total Runtime: 5410 ms
+Silhouette Time: 2744ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 35
+SSE - Iteration 0: 2334.5071107737476
+SSE - Iteration 1: 2032.310263516353
+SSE - Iteration 2: 1962.3168951848286
+SSE - Iteration 3: 1925.8384099213229
+SSE - Iteration 4: 1900.609128859088
+SSE - Iteration 5: 1883.191212261954
+SSE - Iteration 6: 1869.453351453477
+SSE - Iteration 7: 1858.2979724335746
+SSE - Iteration 8: 1849.874931964054
+SSE - Iteration 9: 1842.9603134598628
+SSE - Iteration 10: 1836.5883051968374
+SSE - Iteration 11: 1831.7092348840524
+SSE - Iteration 12: 1828.275063073759
+SSE - Iteration 13: 1825.1015420993542
+SSE - Iteration 14: 1822.1187983240125
+SSE - Iteration 15: 1819.2947000821616
+SSE - Iteration 16: 1816.9195208611407
+SSE - Iteration 17: 1815.0553915150847
+SSE - Iteration 18: 1813.6892742887358
+Initial SSE: 2334.5071107737476
+Final SSE: 1813.6892742887358
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 5334 ms
+Total Runtime: 5437 ms
+Silhouette Time: 2565ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 36
+SSE - Iteration 0: 2355.302038552805
+SSE - Iteration 1: 2070.080568563425
+SSE - Iteration 2: 2001.3844619926897
+SSE - Iteration 3: 1962.2571919602374
+SSE - Iteration 4: 1935.1275697794133
+SSE - Iteration 5: 1915.5702216405186
+SSE - Iteration 6: 1899.8614774384193
+SSE - Iteration 7: 1886.2227845298025
+SSE - Iteration 8: 1875.7735680800083
+SSE - Iteration 9: 1867.8034487105956
+SSE - Iteration 10: 1861.920908865896
+SSE - Iteration 11: 1856.3461506857323
+SSE - Iteration 12: 1849.8272171909252
+SSE - Iteration 13: 1841.6490814053184
+SSE - Iteration 14: 1833.5296897050841
+SSE - Iteration 15: 1826.7162363581479
+SSE - Iteration 16: 1821.3683338011651
+SSE - Iteration 17: 1818.2864803676628
+SSE - Iteration 18: 1815.8440459671635
+SSE - Iteration 19: 1813.449488417138
+SSE - Iteration 20: 1810.6669244648508
+SSE - Iteration 21: 1807.1367320679606
+SSE - Iteration 22: 1804.0676561388811
+SSE - Iteration 23: 1802.192758745598
+SSE - Iteration 24: 1800.5160109699505
+Initial SSE: 2355.302038552805
+Final SSE: 1800.5160109699505
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 9281 ms
+Total Runtime: 9391 ms
+Silhouette Time: 2472ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 37
+SSE - Iteration 0: 2383.6487122043122
+SSE - Iteration 1: 2061.1948658716233
+SSE - Iteration 2: 1982.336438493324
+SSE - Iteration 3: 1939.7199184640174
+SSE - Iteration 4: 1909.4640217491165
+SSE - Iteration 5: 1888.1336074223389
+SSE - Iteration 6: 1871.1403644626698
+SSE - Iteration 7: 1859.1767851298232
+SSE - Iteration 8: 1851.129011812084
+SSE - Iteration 9: 1844.2623677229021
+SSE - Iteration 10: 1838.1320354916181
+SSE - Iteration 11: 1833.0485410697418
+SSE - Iteration 12: 1829.1693030551664
+SSE - Iteration 13: 1826.1214666093645
+SSE - Iteration 14: 1823.3189220088584
+SSE - Iteration 15: 1820.419201542283
+SSE - Iteration 16: 1817.3970169317374
+SSE - Iteration 17: 1814.4446197941684
+SSE - Iteration 18: 1811.279747808862
+SSE - Iteration 19: 1808.0394849385834
+SSE - Iteration 20: 1804.6682907023626
+SSE - Iteration 21: 1802.5532390009698
+SSE - Iteration 22: 1800.5636663011092
+SSE - Iteration 23: 1798.6480379682423
+SSE - Iteration 24: 1796.110951526007
+SSE - Iteration 25: 1793.0286890681161
+SSE - Iteration 26: 1790.5258137794483
+SSE - Iteration 27: 1788.8376300512202
+Initial SSE: 2383.6487122043122
+Final SSE: 1788.8376300512202
+
+Data Normilization Type: minmax
+Data Normalization: 7 ms
+Center Selection Type: maximin
+Center Selection: 108 ms
+Clustering Runtime: 11335 ms
+Total Runtime: 11450 ms
+Silhouette Time: 2540ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 38
+SSE - Iteration 0: 2364.1465812849497
+SSE - Iteration 1: 2097.7720625361085
+SSE - Iteration 2: 2011.678549125409
+SSE - Iteration 3: 1962.6560435933593
+SSE - Iteration 4: 1926.5979897753243
+SSE - Iteration 5: 1899.3775127277959
+SSE - Iteration 6: 1879.916741013113
+SSE - Iteration 7: 1866.7689820842456
+SSE - Iteration 8: 1857.4022694667185
+SSE - Iteration 9: 1850.4941529395478
+SSE - Iteration 10: 1845.465040527523
+SSE - Iteration 11: 1842.2205190168631
+SSE - Iteration 12: 1839.283425959736
+SSE - Iteration 13: 1835.6958511806033
+SSE - Iteration 14: 1831.2538879277233
+SSE - Iteration 15: 1826.4827054408916
+SSE - Iteration 16: 1822.0051487739026
+SSE - Iteration 17: 1818.801641829601
+SSE - Iteration 18: 1816.5144674461335
+SSE - Iteration 19: 1814.484549740313
+SSE - Iteration 20: 1812.6428188853538
+SSE - Iteration 21: 1810.7968577657866
+SSE - Iteration 22: 1807.9989700924407
+SSE - Iteration 23: 1804.7388600669021
+SSE - Iteration 24: 1803.3330678528666
+Initial SSE: 2364.1465812849497
+Final SSE: 1803.3330678528666
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 9165 ms
+Total Runtime: 9269 ms
+Silhouette Time: 2591ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 39
+SSE - Iteration 0: 2326.3416890561953
+SSE - Iteration 1: 2045.838908875473
+SSE - Iteration 2: 1968.3115116258098
+SSE - Iteration 3: 1928.642382360861
+SSE - Iteration 4: 1894.2731934827962
+SSE - Iteration 5: 1870.5157045816754
+SSE - Iteration 6: 1852.0855862641217
+SSE - Iteration 7: 1837.7133945589064
+SSE - Iteration 8: 1828.8522413958988
+SSE - Iteration 9: 1822.9519457666368
+SSE - Iteration 10: 1819.1541102734038
+SSE - Iteration 11: 1816.065225253617
+SSE - Iteration 12: 1813.649506517585
+SSE - Iteration 13: 1811.0774959873731
+SSE - Iteration 14: 1808.1126185956373
+SSE - Iteration 15: 1805.8466871894811
+SSE - Iteration 16: 1803.423801092582
+SSE - Iteration 17: 1800.9693326494598
+SSE - Iteration 18: 1798.2135776926168
+SSE - Iteration 19: 1796.1024006963924
+SSE - Iteration 20: 1794.251450894561
+SSE - Iteration 21: 1792.9363317829113
+Initial SSE: 2326.3416890561953
+Final SSE: 1792.9363317829113
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 101 ms
+Clustering Runtime: 7115 ms
+Total Runtime: 7221 ms
+Silhouette Time: 2569ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 40
+SSE - Iteration 0: 2308.600834908584
+SSE - Iteration 1: 2063.1009686777907
+SSE - Iteration 2: 1993.0034387822675
+SSE - Iteration 3: 1953.0905984124252
+SSE - Iteration 4: 1930.1226005456215
+SSE - Iteration 5: 1912.6109540062253
+SSE - Iteration 6: 1895.5876030912186
+SSE - Iteration 7: 1878.425829842502
+SSE - Iteration 8: 1863.2092362566725
+SSE - Iteration 9: 1851.6391824422424
+SSE - Iteration 10: 1841.3198189747338
+SSE - Iteration 11: 1833.5396004170582
+SSE - Iteration 12: 1826.518013309685
+SSE - Iteration 13: 1820.1698669249083
+SSE - Iteration 14: 1815.213101706811
+SSE - Iteration 15: 1811.448265315281
+SSE - Iteration 16: 1808.8983865909047
+SSE - Iteration 17: 1806.8166041730976
+SSE - Iteration 18: 1805.3025923001442
+Initial SSE: 2308.600834908584
+Final SSE: 1805.3025923001442
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 5389 ms
+Total Runtime: 5499 ms
+Silhouette Time: 2533ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 41
+SSE - Iteration 0: 2392.1013494782806
+SSE - Iteration 1: 2090.3099257082263
+SSE - Iteration 2: 2015.8809557699863
+SSE - Iteration 3: 1969.6762536203578
+SSE - Iteration 4: 1934.4495431902035
+SSE - Iteration 5: 1911.933561299556
+SSE - Iteration 6: 1896.5950051647553
+SSE - Iteration 7: 1883.9105473523505
+SSE - Iteration 8: 1867.9638711463429
+SSE - Iteration 9: 1854.3696943224954
+SSE - Iteration 10: 1846.9645563857628
+SSE - Iteration 11: 1839.7326807681027
+SSE - Iteration 12: 1833.6472357234268
+SSE - Iteration 13: 1828.7123160765989
+SSE - Iteration 14: 1824.6393408720412
+SSE - Iteration 15: 1820.4264646632962
+SSE - Iteration 16: 1816.902401472871
+SSE - Iteration 17: 1814.3955553486437
+SSE - Iteration 18: 1811.6095581022457
+SSE - Iteration 19: 1808.9931938746004
+SSE - Iteration 20: 1806.9633729216464
+SSE - Iteration 21: 1805.817517493602
+Initial SSE: 2392.1013494782806
+Final SSE: 1805.817517493602
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 7042 ms
+Total Runtime: 7146 ms
+Silhouette Time: 2499ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 42
+SSE - Iteration 0: 2380.909724647813
+SSE - Iteration 1: 2075.754277316007
+SSE - Iteration 2: 1990.3259603326253
+SSE - Iteration 3: 1939.774631815778
+SSE - Iteration 4: 1900.917673571733
+SSE - Iteration 5: 1874.0262399083413
+SSE - Iteration 6: 1856.270971646029
+SSE - Iteration 7: 1845.451733021738
+SSE - Iteration 8: 1837.5265870486162
+SSE - Iteration 9: 1829.4290859961293
+SSE - Iteration 10: 1821.063408704135
+SSE - Iteration 11: 1813.3708717691377
+SSE - Iteration 12: 1806.2801288371752
+SSE - Iteration 13: 1801.4635581475939
+SSE - Iteration 14: 1797.274746908259
+SSE - Iteration 15: 1793.6337556260853
+SSE - Iteration 16: 1791.0823213966437
+SSE - Iteration 17: 1789.3483213674256
+Initial SSE: 2380.909724647813
+Final SSE: 1789.3483213674256
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 4835 ms
+Total Runtime: 4942 ms
+Silhouette Time: 2508ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 43
+SSE - Iteration 0: 2401.1054821394364
+SSE - Iteration 1: 2098.0206557916927
+SSE - Iteration 2: 2008.5621172837307
+SSE - Iteration 3: 1949.4020416866206
+SSE - Iteration 4: 1913.9356218573957
+SSE - Iteration 5: 1891.041267466935
+SSE - Iteration 6: 1875.2892687523295
+SSE - Iteration 7: 1862.6821044482858
+SSE - Iteration 8: 1852.410198830486
+SSE - Iteration 9: 1844.998453613968
+SSE - Iteration 10: 1840.4203865581644
+SSE - Iteration 11: 1837.3353219057392
+SSE - Iteration 12: 1835.171557188162
+SSE - Iteration 13: 1833.2781106368998
+SSE - Iteration 14: 1831.4143707743176
+SSE - Iteration 15: 1828.793387339511
+SSE - Iteration 16: 1826.391129321505
+SSE - Iteration 17: 1824.5768386434368
+Initial SSE: 2401.1054821394364
+Final SSE: 1824.5768386434368
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 103 ms
+Clustering Runtime: 4809 ms
+Total Runtime: 4917 ms
+Silhouette Time: 2550ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 44
+SSE - Iteration 0: 2345.7521958041943
+SSE - Iteration 1: 2045.7528511358742
+SSE - Iteration 2: 1967.5859848670377
+SSE - Iteration 3: 1925.4813328292998
+SSE - Iteration 4: 1897.1511124449448
+SSE - Iteration 5: 1876.732537543551
+SSE - Iteration 6: 1862.2569709344161
+SSE - Iteration 7: 1852.400797627485
+SSE - Iteration 8: 1843.2664812582993
+SSE - Iteration 9: 1834.5849427970809
+SSE - Iteration 10: 1826.8269407938715
+SSE - Iteration 11: 1822.009001266203
+SSE - Iteration 12: 1818.4424365122416
+SSE - Iteration 13: 1815.6282111351522
+SSE - Iteration 14: 1812.5242784481072
+SSE - Iteration 15: 1810.3853739057142
+SSE - Iteration 16: 1808.0776988936004
+SSE - Iteration 17: 1805.3999384116967
+SSE - Iteration 18: 1803.036878112872
+SSE - Iteration 19: 1801.534952464483
+Initial SSE: 2345.7521958041943
+Final SSE: 1801.534952464483
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 104 ms
+Clustering Runtime: 5933 ms
+Total Runtime: 6042 ms
+Silhouette Time: 2548ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 45
+SSE - Iteration 0: 2401.8061996486185
+SSE - Iteration 1: 2107.9961297909117
+SSE - Iteration 2: 2017.324776738666
+SSE - Iteration 3: 1965.7777843253664
+SSE - Iteration 4: 1933.9853441379596
+SSE - Iteration 5: 1912.66556078856
+SSE - Iteration 6: 1896.5240359120291
+SSE - Iteration 7: 1883.7376508071181
+SSE - Iteration 8: 1872.4173407457658
+SSE - Iteration 9: 1865.2335738593188
+SSE - Iteration 10: 1859.0387571531894
+SSE - Iteration 11: 1853.5393387675392
+SSE - Iteration 12: 1849.5571846446012
+SSE - Iteration 13: 1846.5872494719868
+SSE - Iteration 14: 1844.2926975347127
+SSE - Iteration 15: 1842.420197674688
+SSE - Iteration 16: 1840.9953508553847
+Initial SSE: 2401.8061996486185
+Final SSE: 1840.9953508553847
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 4324 ms
+Total Runtime: 4432 ms
+Silhouette Time: 2491ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 46
+SSE - Iteration 0: 2296.887404296195
+SSE - Iteration 1: 2033.8483117466135
+SSE - Iteration 2: 1958.1410919706595
+SSE - Iteration 3: 1915.3679526998285
+SSE - Iteration 4: 1887.1254711818328
+SSE - Iteration 5: 1868.2034670998153
+SSE - Iteration 6: 1855.4391010825136
+SSE - Iteration 7: 1845.2968740355009
+SSE - Iteration 8: 1836.8590245318426
+SSE - Iteration 9: 1827.59473897771
+SSE - Iteration 10: 1818.7538041226194
+SSE - Iteration 11: 1813.798830958038
+SSE - Iteration 12: 1809.4120756862633
+SSE - Iteration 13: 1806.777595691219
+SSE - Iteration 14: 1804.236539771188
+SSE - Iteration 15: 1801.325646170548
+SSE - Iteration 16: 1798.0165028014121
+SSE - Iteration 17: 1795.584111470957
+SSE - Iteration 18: 1793.5762735971075
+SSE - Iteration 19: 1791.8008541712143
+Initial SSE: 2296.887404296195
+Final SSE: 1791.8008541712143
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 5896 ms
+Total Runtime: 5999 ms
+Silhouette Time: 2602ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 47
+SSE - Iteration 0: 2375.58468415298
+SSE - Iteration 1: 2090.828944478015
+SSE - Iteration 2: 2004.5368512911434
+SSE - Iteration 3: 1950.2210230406597
+SSE - Iteration 4: 1909.4456407297653
+SSE - Iteration 5: 1883.005667007812
+SSE - Iteration 6: 1867.4721793344384
+SSE - Iteration 7: 1855.2457444163217
+SSE - Iteration 8: 1847.0592684002609
+SSE - Iteration 9: 1840.6147509254545
+SSE - Iteration 10: 1836.319088014802
+SSE - Iteration 11: 1833.3479242603548
+SSE - Iteration 12: 1830.4395082324922
+SSE - Iteration 13: 1827.4482001281367
+SSE - Iteration 14: 1824.54882834834
+SSE - Iteration 15: 1821.787882924797
+SSE - Iteration 16: 1818.785878276008
+SSE - Iteration 17: 1815.1749351895025
+SSE - Iteration 18: 1811.1930973484325
+SSE - Iteration 19: 1807.7061373401305
+SSE - Iteration 20: 1804.782563249575
+SSE - Iteration 21: 1802.6691024023037
+SSE - Iteration 22: 1800.73891014005
+SSE - Iteration 23: 1798.8916837427857
+SSE - Iteration 24: 1797.3596598630536
+Initial SSE: 2375.58468415298
+Final SSE: 1797.3596598630536
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 9214 ms
+Total Runtime: 9317 ms
+Silhouette Time: 2551ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 48
+SSE - Iteration 0: 2418.1949692395037
+SSE - Iteration 1: 2100.5894858572883
+SSE - Iteration 2: 2019.2399184075416
+SSE - Iteration 3: 1968.9772185954312
+SSE - Iteration 4: 1932.939797772141
+SSE - Iteration 5: 1907.1572913363598
+SSE - Iteration 6: 1891.26142247326
+SSE - Iteration 7: 1874.6599491651405
+SSE - Iteration 8: 1860.7740042814646
+SSE - Iteration 9: 1852.9853268220595
+SSE - Iteration 10: 1847.145165031114
+SSE - Iteration 11: 1842.4018679501676
+SSE - Iteration 12: 1838.0706614040184
+SSE - Iteration 13: 1834.2286648438137
+SSE - Iteration 14: 1830.6558368154874
+SSE - Iteration 15: 1827.5207274859586
+SSE - Iteration 16: 1824.403751089109
+SSE - Iteration 17: 1821.5930360529646
+SSE - Iteration 18: 1818.5556821470575
+SSE - Iteration 19: 1815.3276216647455
+SSE - Iteration 20: 1812.824750078414
+SSE - Iteration 21: 1810.6046117313335
+SSE - Iteration 22: 1808.642280560062
+SSE - Iteration 23: 1806.6517597181971
+SSE - Iteration 24: 1805.1923734865493
+Initial SSE: 2418.1949692395037
+Final SSE: 1805.1923734865493
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 9209 ms
+Total Runtime: 9319 ms
+Silhouette Time: 2620ms
+C.H. Time: 5ms
+D.B. Time: 9ms
+
+
+Run: 49
+SSE - Iteration 0: 2393.370394305247
+SSE - Iteration 1: 2085.207511320454
+SSE - Iteration 2: 2004.4142893013081
+SSE - Iteration 3: 1955.8227317489932
+SSE - Iteration 4: 1923.3659710057284
+SSE - Iteration 5: 1899.3600520256514
+SSE - Iteration 6: 1884.9022953903227
+SSE - Iteration 7: 1874.931869211902
+SSE - Iteration 8: 1865.8429829914012
+SSE - Iteration 9: 1856.5246450868137
+SSE - Iteration 10: 1847.5739112713288
+SSE - Iteration 11: 1840.3907961968691
+SSE - Iteration 12: 1835.5317605881767
+SSE - Iteration 13: 1832.049143107482
+SSE - Iteration 14: 1829.547555342937
+SSE - Iteration 15: 1827.7757976701782
+Initial SSE: 2393.370394305247
+Final SSE: 1827.7757976701782
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 3833 ms
+Total Runtime: 3939 ms
+Silhouette Time: 2576ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 50
+SSE - Iteration 0: 2342.7876893661023
+SSE - Iteration 1: 2047.2017564646742
+SSE - Iteration 2: 1968.0857549643742
+SSE - Iteration 3: 1926.8852928083759
+SSE - Iteration 4: 1897.4289216438397
+SSE - Iteration 5: 1878.13905745349
+SSE - Iteration 6: 1864.600250805773
+SSE - Iteration 7: 1854.4816712902216
+SSE - Iteration 8: 1845.773748631612
+SSE - Iteration 9: 1839.7417269653838
+SSE - Iteration 10: 1835.6825453058873
+SSE - Iteration 11: 1832.903918429254
+SSE - Iteration 12: 1831.0359505349768
+SSE - Iteration 13: 1829.0610244820368
+SSE - Iteration 14: 1826.8860289319
+SSE - Iteration 15: 1825.533351081502
+Initial SSE: 2342.7876893661023
+Final SSE: 1825.533351081502
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 3843 ms
+Total Runtime: 3946 ms
+Silhouette Time: 2505ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 51
+SSE - Iteration 0: 2404.8018988066824
+SSE - Iteration 1: 2063.935674699455
+SSE - Iteration 2: 1999.0947756286766
+SSE - Iteration 3: 1964.1944557108573
+SSE - Iteration 4: 1935.5697783339356
+SSE - Iteration 5: 1912.6653701804512
+SSE - Iteration 6: 1896.9157393009314
+SSE - Iteration 7: 1885.1062187005964
+SSE - Iteration 8: 1873.5919247640272
+SSE - Iteration 9: 1864.400431509369
+SSE - Iteration 10: 1857.115394751163
+SSE - Iteration 11: 1851.977859741985
+SSE - Iteration 12: 1847.8913858469825
+SSE - Iteration 13: 1843.6882073447805
+SSE - Iteration 14: 1840.8932868074014
+SSE - Iteration 15: 1838.5803939432653
+SSE - Iteration 16: 1836.5022761423934
+SSE - Iteration 17: 1834.5174553609727
+SSE - Iteration 18: 1832.5244965954466
+SSE - Iteration 19: 1830.4710737707796
+SSE - Iteration 20: 1828.6605999789238
+Initial SSE: 2404.8018988066824
+Final SSE: 1828.6605999789238
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 6462 ms
+Total Runtime: 6564 ms
+Silhouette Time: 2643ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 52
+SSE - Iteration 0: 2378.620068327631
+SSE - Iteration 1: 2103.898338453566
+SSE - Iteration 2: 2018.8697915594996
+SSE - Iteration 3: 1961.315818521769
+SSE - Iteration 4: 1926.2116889853223
+SSE - Iteration 5: 1901.9619088681345
+SSE - Iteration 6: 1885.2808418117486
+SSE - Iteration 7: 1873.8533984016408
+SSE - Iteration 8: 1864.9073937616974
+SSE - Iteration 9: 1859.0702477962132
+SSE - Iteration 10: 1854.026115117569
+SSE - Iteration 11: 1849.126556574141
+SSE - Iteration 12: 1844.5096283309058
+SSE - Iteration 13: 1841.157957646628
+SSE - Iteration 14: 1838.553221264164
+SSE - Iteration 15: 1836.4943961255417
+SSE - Iteration 16: 1834.4987377678206
+SSE - Iteration 17: 1832.7361226616058
+Initial SSE: 2378.620068327631
+Final SSE: 1832.7361226616058
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 101 ms
+Clustering Runtime: 4828 ms
+Total Runtime: 4934 ms
+Silhouette Time: 2631ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 53
+SSE - Iteration 0: 2343.2747829770574
+SSE - Iteration 1: 2094.828188300074
+SSE - Iteration 2: 2025.8382964847688
+SSE - Iteration 3: 1983.3364631161508
+SSE - Iteration 4: 1948.9971806901797
+SSE - Iteration 5: 1919.52998813318
+SSE - Iteration 6: 1894.5072567168797
+SSE - Iteration 7: 1872.0792605597005
+SSE - Iteration 8: 1849.3885744393967
+SSE - Iteration 9: 1830.5552258031794
+SSE - Iteration 10: 1821.754181508551
+SSE - Iteration 11: 1816.5442003086362
+SSE - Iteration 12: 1812.5306559839305
+SSE - Iteration 13: 1809.570733725841
+SSE - Iteration 14: 1807.0192150042333
+SSE - Iteration 15: 1804.7560631080305
+SSE - Iteration 16: 1802.7511916651315
+SSE - Iteration 17: 1800.8830749877984
+SSE - Iteration 18: 1798.8662274246008
+SSE - Iteration 19: 1797.1404035444482
+Initial SSE: 2343.2747829770574
+Final SSE: 1797.1404035444482
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 5936 ms
+Total Runtime: 6046 ms
+Silhouette Time: 2533ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 54
+SSE - Iteration 0: 2333.0988774555367
+SSE - Iteration 1: 2064.709336894798
+SSE - Iteration 2: 1993.5889874971108
+SSE - Iteration 3: 1958.3761979896456
+SSE - Iteration 4: 1934.0873403920675
+SSE - Iteration 5: 1915.1804347850705
+SSE - Iteration 6: 1897.9741818068146
+SSE - Iteration 7: 1883.429880940207
+SSE - Iteration 8: 1871.739827464173
+SSE - Iteration 9: 1860.6491212606093
+SSE - Iteration 10: 1850.5556189188908
+SSE - Iteration 11: 1840.6676995096425
+SSE - Iteration 12: 1833.674916251733
+SSE - Iteration 13: 1827.3601395704918
+SSE - Iteration 14: 1823.0515114029731
+SSE - Iteration 15: 1820.6850782648874
+SSE - Iteration 16: 1819.1119320273567
+Initial SSE: 2333.0988774555367
+Final SSE: 1819.1119320273567
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 4383 ms
+Total Runtime: 4486 ms
+Silhouette Time: 2501ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 55
+SSE - Iteration 0: 2375.5516949274815
+SSE - Iteration 1: 2062.1094647072837
+SSE - Iteration 2: 1972.261224791345
+SSE - Iteration 3: 1923.4334990393245
+SSE - Iteration 4: 1894.109966481679
+SSE - Iteration 5: 1873.2047226582083
+SSE - Iteration 6: 1858.0966718018697
+SSE - Iteration 7: 1844.528471521585
+SSE - Iteration 8: 1835.306296075324
+SSE - Iteration 9: 1828.9846546611493
+SSE - Iteration 10: 1824.1271995104414
+SSE - Iteration 11: 1820.3584509752875
+SSE - Iteration 12: 1816.6355229565288
+SSE - Iteration 13: 1812.934733653011
+SSE - Iteration 14: 1809.452684202047
+SSE - Iteration 15: 1806.4757024467115
+SSE - Iteration 16: 1803.188689830578
+SSE - Iteration 17: 1800.4614672143496
+SSE - Iteration 18: 1798.653902239092
+SSE - Iteration 19: 1797.5608226243862
+Initial SSE: 2375.5516949274815
+Final SSE: 1797.5608226243862
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 5873 ms
+Total Runtime: 5976 ms
+Silhouette Time: 2607ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 56
+SSE - Iteration 0: 2315.267422501868
+SSE - Iteration 1: 2059.3633333972416
+SSE - Iteration 2: 1980.8039068929609
+SSE - Iteration 3: 1941.1912992916848
+SSE - Iteration 4: 1913.8837426499795
+SSE - Iteration 5: 1895.2401794584637
+SSE - Iteration 6: 1881.9106262950302
+SSE - Iteration 7: 1871.0738102969428
+SSE - Iteration 8: 1862.1306158165678
+SSE - Iteration 9: 1855.2150489869905
+SSE - Iteration 10: 1850.276622915629
+SSE - Iteration 11: 1846.0161870114348
+SSE - Iteration 12: 1841.8085376633153
+SSE - Iteration 13: 1838.5940400752966
+SSE - Iteration 14: 1836.1013088759983
+SSE - Iteration 15: 1833.9791809267924
+SSE - Iteration 16: 1832.0196278350804
+SSE - Iteration 17: 1830.1814043622558
+SSE - Iteration 18: 1828.6833395023161
+Initial SSE: 2315.267422501868
+Final SSE: 1828.6833395023161
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 5346 ms
+Total Runtime: 5449 ms
+Silhouette Time: 2634ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 57
+SSE - Iteration 0: 2367.743041825091
+SSE - Iteration 1: 2074.345366135031
+SSE - Iteration 2: 1992.4756461724614
+SSE - Iteration 3: 1938.3589286353529
+SSE - Iteration 4: 1902.8545260334624
+SSE - Iteration 5: 1876.4771562231297
+SSE - Iteration 6: 1858.7885509717357
+SSE - Iteration 7: 1845.8496191898246
+SSE - Iteration 8: 1836.0904866796088
+SSE - Iteration 9: 1828.9930198525196
+SSE - Iteration 10: 1823.2093861637636
+SSE - Iteration 11: 1818.7615368606503
+SSE - Iteration 12: 1815.2648880165664
+SSE - Iteration 13: 1812.5641155155263
+SSE - Iteration 14: 1810.132967697509
+SSE - Iteration 15: 1808.2363171419247
+SSE - Iteration 16: 1806.2843449656839
+SSE - Iteration 17: 1804.2954106730122
+SSE - Iteration 18: 1802.349525038293
+SSE - Iteration 19: 1800.4918843152632
+SSE - Iteration 20: 1798.9029521827408
+Initial SSE: 2367.743041825091
+Final SSE: 1798.9029521827408
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 6472 ms
+Total Runtime: 6574 ms
+Silhouette Time: 2583ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 58
+SSE - Iteration 0: 2349.115400878859
+SSE - Iteration 1: 2046.7819475852834
+SSE - Iteration 2: 1963.1836548675944
+SSE - Iteration 3: 1916.6451285905152
+SSE - Iteration 4: 1886.4422028910215
+SSE - Iteration 5: 1869.2537764481706
+SSE - Iteration 6: 1857.6949111809251
+SSE - Iteration 7: 1848.2524304894687
+SSE - Iteration 8: 1840.5185799043866
+SSE - Iteration 9: 1834.9454838799797
+SSE - Iteration 10: 1830.0777875780614
+SSE - Iteration 11: 1826.5872742139238
+SSE - Iteration 12: 1823.8742591864575
+SSE - Iteration 13: 1821.568129240407
+SSE - Iteration 14: 1819.7222307190357
+SSE - Iteration 15: 1817.8239488172806
+SSE - Iteration 16: 1816.0662007271942
+Initial SSE: 2349.115400878859
+Final SSE: 1816.0662007271942
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 4321 ms
+Total Runtime: 4427 ms
+Silhouette Time: 2535ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 59
+SSE - Iteration 0: 2381.991982781331
+SSE - Iteration 1: 2072.4534862224514
+SSE - Iteration 2: 1993.716479861872
+SSE - Iteration 3: 1948.1544247025913
+SSE - Iteration 4: 1913.2672965941754
+SSE - Iteration 5: 1889.9233117088663
+SSE - Iteration 6: 1874.6225759150914
+SSE - Iteration 7: 1864.2997446183197
+SSE - Iteration 8: 1858.0376664142996
+SSE - Iteration 9: 1853.1758574019868
+SSE - Iteration 10: 1849.0986596871924
+SSE - Iteration 11: 1845.7640908343508
+SSE - Iteration 12: 1842.9428447189428
+SSE - Iteration 13: 1839.5874315051449
+SSE - Iteration 14: 1836.2789110765232
+SSE - Iteration 15: 1834.1158623640918
+SSE - Iteration 16: 1832.049121394494
+SSE - Iteration 17: 1830.1066951504047
+SSE - Iteration 18: 1828.2639444213487
+SSE - Iteration 19: 1825.9252061102352
+SSE - Iteration 20: 1823.247026219976
+SSE - Iteration 21: 1820.3226105574067
+SSE - Iteration 22: 1816.7517843406608
+SSE - Iteration 23: 1813.0005420002888
+SSE - Iteration 24: 1810.1946865523566
+SSE - Iteration 25: 1807.8348706987133
+SSE - Iteration 26: 1804.7395323998642
+SSE - Iteration 27: 1801.3892094614853
+SSE - Iteration 28: 1798.99780414636
+SSE - Iteration 29: 1796.9232777250338
+SSE - Iteration 30: 1795.4340009406426
+Initial SSE: 2381.991982781331
+Final SSE: 1795.4340009406426
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 106 ms
+Clustering Runtime: 14282 ms
+Total Runtime: 14393 ms
+Silhouette Time: 2531ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 60
+SSE - Iteration 0: 2401.2633290843173
+SSE - Iteration 1: 2115.16659990358
+SSE - Iteration 2: 2045.6924033811113
+SSE - Iteration 3: 2003.2260694092197
+SSE - Iteration 4: 1966.2294529723724
+SSE - Iteration 5: 1937.7468279491416
+SSE - Iteration 6: 1913.5839701247894
+SSE - Iteration 7: 1893.820297765532
+SSE - Iteration 8: 1877.9638129256102
+SSE - Iteration 9: 1864.683105931675
+SSE - Iteration 10: 1853.5502135608665
+SSE - Iteration 11: 1844.6098819937965
+SSE - Iteration 12: 1837.7494073817593
+SSE - Iteration 13: 1831.7533505078218
+SSE - Iteration 14: 1827.3166055809227
+SSE - Iteration 15: 1824.1646478539376
+SSE - Iteration 16: 1821.554500010781
+SSE - Iteration 17: 1819.4892397860176
+SSE - Iteration 18: 1817.6957461195843
+Initial SSE: 2401.2633290843173
+Final SSE: 1817.6957461195843
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 103 ms
+Clustering Runtime: 5359 ms
+Total Runtime: 5466 ms
+Silhouette Time: 2543ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 61
+SSE - Iteration 0: 2355.454430986521
+SSE - Iteration 1: 2038.5661284854273
+SSE - Iteration 2: 1957.214772557458
+SSE - Iteration 3: 1919.9830068772048
+SSE - Iteration 4: 1896.494007943074
+SSE - Iteration 5: 1881.3676209351024
+SSE - Iteration 6: 1867.7965944399518
+SSE - Iteration 7: 1857.1861649843363
+SSE - Iteration 8: 1848.599692888765
+SSE - Iteration 9: 1842.6108498441674
+SSE - Iteration 10: 1838.0525823389153
+SSE - Iteration 11: 1834.3145839530052
+SSE - Iteration 12: 1831.2989984497442
+SSE - Iteration 13: 1828.3804577356511
+SSE - Iteration 14: 1826.3379292746904
+SSE - Iteration 15: 1824.5572070412986
+Initial SSE: 2355.454430986521
+Final SSE: 1824.5572070412986
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 3836 ms
+Total Runtime: 3940 ms
+Silhouette Time: 2610ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 62
+SSE - Iteration 0: 2361.5714028177013
+SSE - Iteration 1: 2055.9614631315217
+SSE - Iteration 2: 1982.900399576322
+SSE - Iteration 3: 1947.176161452797
+SSE - Iteration 4: 1923.3017955351995
+SSE - Iteration 5: 1902.1109377843482
+SSE - Iteration 6: 1885.3639714638568
+SSE - Iteration 7: 1873.3347629426828
+SSE - Iteration 8: 1861.4629727631084
+SSE - Iteration 9: 1851.6892765372006
+SSE - Iteration 10: 1843.8230605427455
+SSE - Iteration 11: 1837.024501390974
+SSE - Iteration 12: 1831.5041284950703
+SSE - Iteration 13: 1825.9569614672541
+SSE - Iteration 14: 1820.959083478686
+SSE - Iteration 15: 1816.5911855593845
+SSE - Iteration 16: 1813.409441014557
+SSE - Iteration 17: 1811.3145684526082
+SSE - Iteration 18: 1809.3644054231154
+SSE - Iteration 19: 1807.5198490201149
+SSE - Iteration 20: 1805.1741360411327
+SSE - Iteration 21: 1803.245890142192
+SSE - Iteration 22: 1801.4664347919224
+Initial SSE: 2361.5714028177013
+Final SSE: 1801.4664347919224
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 7748 ms
+Total Runtime: 7851 ms
+Silhouette Time: 2656ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 63
+SSE - Iteration 0: 2361.233158857502
+SSE - Iteration 1: 2058.9302950372494
+SSE - Iteration 2: 1975.0824907249798
+SSE - Iteration 3: 1936.8037522650513
+SSE - Iteration 4: 1911.9900765038567
+SSE - Iteration 5: 1890.6263242822652
+SSE - Iteration 6: 1876.7545594035282
+SSE - Iteration 7: 1866.4740195167053
+SSE - Iteration 8: 1857.6661397128519
+SSE - Iteration 9: 1849.8323666342933
+SSE - Iteration 10: 1841.6125192248564
+SSE - Iteration 11: 1834.54001792919
+SSE - Iteration 12: 1828.3097869413166
+SSE - Iteration 13: 1823.2165018433584
+SSE - Iteration 14: 1819.5514725590558
+SSE - Iteration 15: 1816.624846702301
+SSE - Iteration 16: 1814.3026189474049
+SSE - Iteration 17: 1812.500491074795
+Initial SSE: 2361.233158857502
+Final SSE: 1812.500491074795
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 4958 ms
+Total Runtime: 5067 ms
+Silhouette Time: 2544ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 64
+SSE - Iteration 0: 2373.245221450174
+SSE - Iteration 1: 2071.458724925665
+SSE - Iteration 2: 1998.1208058274394
+SSE - Iteration 3: 1952.5378457093962
+SSE - Iteration 4: 1920.1939071395864
+SSE - Iteration 5: 1899.0774183919982
+SSE - Iteration 6: 1885.6784739756026
+SSE - Iteration 7: 1875.624563976627
+SSE - Iteration 8: 1865.6923724987018
+SSE - Iteration 9: 1857.5603145316163
+SSE - Iteration 10: 1850.7991893355047
+SSE - Iteration 11: 1845.2478503872867
+SSE - Iteration 12: 1838.5258457423165
+SSE - Iteration 13: 1828.4800786140831
+SSE - Iteration 14: 1818.5024884928227
+SSE - Iteration 15: 1811.231235096892
+SSE - Iteration 16: 1805.4749582382544
+SSE - Iteration 17: 1801.2895065665323
+SSE - Iteration 18: 1798.4742700425572
+SSE - Iteration 19: 1795.713031198912
+SSE - Iteration 20: 1793.1563283827234
+SSE - Iteration 21: 1791.3428938167729
+SSE - Iteration 22: 1790.1500742786714
+Initial SSE: 2373.245221450174
+Final SSE: 1790.1500742786714
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 7742 ms
+Total Runtime: 7846 ms
+Silhouette Time: 2467ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 65
+SSE - Iteration 0: 2344.1672007105108
+SSE - Iteration 1: 2054.952179667568
+SSE - Iteration 2: 1971.292976902027
+SSE - Iteration 3: 1926.3612925704545
+SSE - Iteration 4: 1896.1716347998715
+SSE - Iteration 5: 1877.923127055908
+SSE - Iteration 6: 1863.809767811637
+SSE - Iteration 7: 1853.6482413110186
+SSE - Iteration 8: 1847.5248901531975
+SSE - Iteration 9: 1841.8244867909675
+SSE - Iteration 10: 1836.8750875270139
+SSE - Iteration 11: 1831.7676199916946
+SSE - Iteration 12: 1829.0333905708035
+SSE - Iteration 13: 1826.9483593710668
+SSE - Iteration 14: 1825.7410304965624
+Initial SSE: 2344.1672007105108
+Final SSE: 1825.7410304965624
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 3396 ms
+Total Runtime: 3500 ms
+Silhouette Time: 2465ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 66
+SSE - Iteration 0: 2379.5838462455376
+SSE - Iteration 1: 2065.3023468634074
+SSE - Iteration 2: 1969.6072702548029
+SSE - Iteration 3: 1919.404519267552
+SSE - Iteration 4: 1895.0388239093857
+SSE - Iteration 5: 1880.910058356847
+SSE - Iteration 6: 1869.511872179824
+SSE - Iteration 7: 1861.0527887346364
+SSE - Iteration 8: 1853.6902267006603
+SSE - Iteration 9: 1846.903780421628
+SSE - Iteration 10: 1841.822399753968
+SSE - Iteration 11: 1838.0503818675268
+SSE - Iteration 12: 1835.2413423610835
+SSE - Iteration 13: 1832.363767555557
+SSE - Iteration 14: 1830.0159398184405
+SSE - Iteration 15: 1827.7648186314782
+SSE - Iteration 16: 1825.8771474253056
+SSE - Iteration 17: 1824.0467883386943
+SSE - Iteration 18: 1822.6169853013603
+Initial SSE: 2379.5838462455376
+Final SSE: 1822.6169853013603
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 5289 ms
+Total Runtime: 5396 ms
+Silhouette Time: 2579ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 67
+SSE - Iteration 0: 2394.1885081817177
+SSE - Iteration 1: 2054.438076031135
+SSE - Iteration 2: 1967.5313441207497
+SSE - Iteration 3: 1928.6726622387273
+SSE - Iteration 4: 1905.1466875832612
+SSE - Iteration 5: 1886.5206381993703
+SSE - Iteration 6: 1870.1074185084428
+SSE - Iteration 7: 1854.688136441344
+SSE - Iteration 8: 1840.7815686214365
+SSE - Iteration 9: 1831.6509198453223
+SSE - Iteration 10: 1826.0571649126102
+SSE - Iteration 11: 1822.2022606325975
+SSE - Iteration 12: 1818.8300501632577
+SSE - Iteration 13: 1816.188802231978
+SSE - Iteration 14: 1814.0620390157692
+SSE - Iteration 15: 1812.2862425828876
+Initial SSE: 2394.1885081817177
+Final SSE: 1812.2862425828876
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 3791 ms
+Total Runtime: 3893 ms
+Silhouette Time: 2640ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 68
+SSE - Iteration 0: 2347.5478747034317
+SSE - Iteration 1: 2062.855026840212
+SSE - Iteration 2: 1986.3822293700173
+SSE - Iteration 3: 1941.6852221639558
+SSE - Iteration 4: 1911.4577462808613
+SSE - Iteration 5: 1890.9268608289397
+SSE - Iteration 6: 1874.4405364583656
+SSE - Iteration 7: 1860.6711972942896
+SSE - Iteration 8: 1850.6946967993267
+SSE - Iteration 9: 1842.0522151597347
+SSE - Iteration 10: 1835.8100557899404
+SSE - Iteration 11: 1831.9283767842005
+SSE - Iteration 12: 1828.929449356613
+SSE - Iteration 13: 1826.1684954575103
+SSE - Iteration 14: 1823.319171031128
+SSE - Iteration 15: 1820.4515400318228
+SSE - Iteration 16: 1817.5963240727183
+SSE - Iteration 17: 1814.7675310936318
+SSE - Iteration 18: 1812.1447240302234
+SSE - Iteration 19: 1809.8296163318926
+SSE - Iteration 20: 1808.1085276011497
+Initial SSE: 2347.5478747034317
+Final SSE: 1808.1085276011497
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 6613 ms
+Total Runtime: 6715 ms
+Silhouette Time: 2463ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 69
+SSE - Iteration 0: 2401.3898628325596
+SSE - Iteration 1: 2051.755198021328
+SSE - Iteration 2: 1977.6182244728486
+SSE - Iteration 3: 1944.9955974221755
+SSE - Iteration 4: 1924.5463610884065
+SSE - Iteration 5: 1911.3046436141183
+SSE - Iteration 6: 1902.3904515010795
+SSE - Iteration 7: 1896.3271058995538
+SSE - Iteration 8: 1890.8813674939424
+SSE - Iteration 9: 1885.2848746888785
+SSE - Iteration 10: 1879.318449589544
+SSE - Iteration 11: 1871.5503895154272
+SSE - Iteration 12: 1861.4445133723732
+SSE - Iteration 13: 1850.5330757848074
+SSE - Iteration 14: 1845.1096043135606
+SSE - Iteration 15: 1841.3840717655771
+SSE - Iteration 16: 1838.303939932667
+SSE - Iteration 17: 1835.9539072561745
+SSE - Iteration 18: 1834.1582780487972
+Initial SSE: 2401.3898628325596
+Final SSE: 1834.1582780487972
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 97 ms
+Clustering Runtime: 5277 ms
+Total Runtime: 5378 ms
+Silhouette Time: 2588ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 70
+SSE - Iteration 0: 2331.310331780552
+SSE - Iteration 1: 2047.7375218118646
+SSE - Iteration 2: 1970.6140445851283
+SSE - Iteration 3: 1936.1672818258876
+SSE - Iteration 4: 1913.2511718327098
+SSE - Iteration 5: 1892.682964861414
+SSE - Iteration 6: 1871.9126998045633
+SSE - Iteration 7: 1854.39648166487
+SSE - Iteration 8: 1844.0730756012783
+SSE - Iteration 9: 1835.6045640039263
+SSE - Iteration 10: 1827.5714405501606
+SSE - Iteration 11: 1820.528619375341
+SSE - Iteration 12: 1814.080313613873
+SSE - Iteration 13: 1809.3899488146285
+SSE - Iteration 14: 1805.740731800443
+SSE - Iteration 15: 1802.7257930813391
+SSE - Iteration 16: 1800.5877298598684
+SSE - Iteration 17: 1798.6792903822604
+SSE - Iteration 18: 1796.283977947491
+SSE - Iteration 19: 1794.4653140662335
+SSE - Iteration 20: 1793.3089769271892
+Initial SSE: 2331.310331780552
+Final SSE: 1793.3089769271892
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 6540 ms
+Total Runtime: 6643 ms
+Silhouette Time: 2643ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 71
+SSE - Iteration 0: 2349.4033327962948
+SSE - Iteration 1: 2069.335010713877
+SSE - Iteration 2: 1982.6192183098133
+SSE - Iteration 3: 1940.4303835688304
+SSE - Iteration 4: 1915.6687723761788
+SSE - Iteration 5: 1899.5004751182025
+SSE - Iteration 6: 1889.1898397400792
+SSE - Iteration 7: 1879.658521190063
+SSE - Iteration 8: 1872.0086824080117
+SSE - Iteration 9: 1866.1353565467741
+SSE - Iteration 10: 1860.9378031570109
+SSE - Iteration 11: 1855.9376520805347
+SSE - Iteration 12: 1850.5815997126228
+SSE - Iteration 13: 1845.781270430566
+SSE - Iteration 14: 1842.1138281111778
+SSE - Iteration 15: 1839.0401646244095
+SSE - Iteration 16: 1836.2455568343203
+SSE - Iteration 17: 1833.8239985112605
+SSE - Iteration 18: 1830.701697425783
+SSE - Iteration 19: 1827.3341856237048
+SSE - Iteration 20: 1824.2437992073492
+SSE - Iteration 21: 1821.4465816922777
+SSE - Iteration 22: 1818.9617223616735
+SSE - Iteration 23: 1817.186715469715
+Initial SSE: 2349.4033327962948
+Final SSE: 1817.186715469715
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 8526 ms
+Total Runtime: 8628 ms
+Silhouette Time: 2494ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 72
+SSE - Iteration 0: 2397.3618264809534
+SSE - Iteration 1: 2059.556736515311
+SSE - Iteration 2: 1979.2307488454478
+SSE - Iteration 3: 1932.841699050785
+SSE - Iteration 4: 1899.9337635362212
+SSE - Iteration 5: 1879.229679898349
+SSE - Iteration 6: 1865.6993627391132
+SSE - Iteration 7: 1855.291964124801
+SSE - Iteration 8: 1847.0029772510425
+SSE - Iteration 9: 1840.444383077153
+SSE - Iteration 10: 1836.1288803325858
+SSE - Iteration 11: 1832.5155017091688
+SSE - Iteration 12: 1829.6688033576997
+SSE - Iteration 13: 1826.9298146100496
+SSE - Iteration 14: 1824.195649932939
+SSE - Iteration 15: 1820.96668738968
+SSE - Iteration 16: 1817.235923338618
+SSE - Iteration 17: 1814.1085472236957
+SSE - Iteration 18: 1812.1501045768055
+SSE - Iteration 19: 1810.7274207952219
+Initial SSE: 2397.3618264809534
+Final SSE: 1810.7274207952219
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 5867 ms
+Total Runtime: 5971 ms
+Silhouette Time: 2570ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 73
+SSE - Iteration 0: 2323.569101333896
+SSE - Iteration 1: 2043.927646007371
+SSE - Iteration 2: 1966.6294557302072
+SSE - Iteration 3: 1920.7295732336652
+SSE - Iteration 4: 1886.339487061531
+SSE - Iteration 5: 1862.8689251358546
+SSE - Iteration 6: 1847.5691534704595
+SSE - Iteration 7: 1836.1288794811126
+SSE - Iteration 8: 1827.1643251051921
+SSE - Iteration 9: 1819.9385897676282
+SSE - Iteration 10: 1814.902986538167
+SSE - Iteration 11: 1810.8462494498572
+SSE - Iteration 12: 1807.580040595922
+SSE - Iteration 13: 1805.0739269499359
+SSE - Iteration 14: 1802.7229645339132
+SSE - Iteration 15: 1800.718701282495
+SSE - Iteration 16: 1799.2535272066416
+Initial SSE: 2323.569101333896
+Final SSE: 1799.2535272066416
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 4321 ms
+Total Runtime: 4431 ms
+Silhouette Time: 2477ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 74
+SSE - Iteration 0: 2302.9226308565253
+SSE - Iteration 1: 2011.9449964663488
+SSE - Iteration 2: 1939.5841185710065
+SSE - Iteration 3: 1903.2435600756012
+SSE - Iteration 4: 1882.29413804585
+SSE - Iteration 5: 1868.2526839664195
+SSE - Iteration 6: 1856.8034981634235
+SSE - Iteration 7: 1849.23195815194
+SSE - Iteration 8: 1844.0940493403991
+SSE - Iteration 9: 1840.5286753823052
+SSE - Iteration 10: 1837.7120086298291
+SSE - Iteration 11: 1835.7842178559597
+SSE - Iteration 12: 1833.956026135763
+Initial SSE: 2302.9226308565253
+Final SSE: 1833.956026135763
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 2544 ms
+Total Runtime: 2646 ms
+Silhouette Time: 2557ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 75
+SSE - Iteration 0: 2408.1151841554383
+SSE - Iteration 1: 2083.901111791582
+SSE - Iteration 2: 1995.8897151635538
+SSE - Iteration 3: 1950.5847024457926
+SSE - Iteration 4: 1921.2397308758789
+SSE - Iteration 5: 1903.3868140069785
+SSE - Iteration 6: 1890.0141423917216
+SSE - Iteration 7: 1878.85034179843
+SSE - Iteration 8: 1869.77033055053
+SSE - Iteration 9: 1861.861699495725
+SSE - Iteration 10: 1857.259206425561
+SSE - Iteration 11: 1854.6120059215543
+SSE - Iteration 12: 1852.8082498677222
+Initial SSE: 2408.1151841554383
+Final SSE: 1852.8082498677222
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 2599 ms
+Total Runtime: 2703 ms
+Silhouette Time: 2549ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 76
+SSE - Iteration 0: 2455.117126089104
+SSE - Iteration 1: 2085.4358430545944
+SSE - Iteration 2: 1992.4072663081597
+SSE - Iteration 3: 1947.0541469312584
+SSE - Iteration 4: 1921.4998401952425
+SSE - Iteration 5: 1901.4679444472622
+SSE - Iteration 6: 1882.8841595739373
+SSE - Iteration 7: 1869.5679528517187
+SSE - Iteration 8: 1859.1325411131145
+SSE - Iteration 9: 1850.089957225017
+SSE - Iteration 10: 1842.6169544583
+SSE - Iteration 11: 1837.0536683587602
+SSE - Iteration 12: 1832.9238270883368
+SSE - Iteration 13: 1829.764775791731
+SSE - Iteration 14: 1827.2652053752788
+SSE - Iteration 15: 1824.8864460935122
+SSE - Iteration 16: 1822.9525101874144
+SSE - Iteration 17: 1821.0475928216388
+SSE - Iteration 18: 1819.400788030012
+Initial SSE: 2455.117126089104
+Final SSE: 1819.400788030012
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 5316 ms
+Total Runtime: 5426 ms
+Silhouette Time: 2649ms
+C.H. Time: 5ms
+D.B. Time: 9ms
+
+
+Run: 77
+SSE - Iteration 0: 2332.9293507593866
+SSE - Iteration 1: 2038.4347359116657
+SSE - Iteration 2: 1958.6587662936536
+SSE - Iteration 3: 1920.3443709681746
+SSE - Iteration 4: 1898.660068849722
+SSE - Iteration 5: 1879.7673037839738
+SSE - Iteration 6: 1863.955120861491
+SSE - Iteration 7: 1854.5194611787163
+SSE - Iteration 8: 1846.9129337892189
+SSE - Iteration 9: 1840.6414873325887
+SSE - Iteration 10: 1834.8055061578468
+SSE - Iteration 11: 1829.4475950343506
+SSE - Iteration 12: 1824.7658848479148
+SSE - Iteration 13: 1821.0889055376117
+SSE - Iteration 14: 1817.8881652954663
+SSE - Iteration 15: 1814.5964033205503
+SSE - Iteration 16: 1811.4832272703295
+SSE - Iteration 17: 1808.423721275845
+SSE - Iteration 18: 1805.1483027602578
+SSE - Iteration 19: 1800.521675305865
+SSE - Iteration 20: 1794.7738934367917
+SSE - Iteration 21: 1791.0405242877737
+SSE - Iteration 22: 1788.62032665945
+SSE - Iteration 23: 1786.747162581659
+SSE - Iteration 24: 1785.4324542315476
+Initial SSE: 2332.9293507593866
+Final SSE: 1785.4324542315476
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 108 ms
+Clustering Runtime: 9081 ms
+Total Runtime: 9194 ms
+Silhouette Time: 2471ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 78
+SSE - Iteration 0: 2418.814561597058
+SSE - Iteration 1: 2066.2290841164204
+SSE - Iteration 2: 1987.6656565334258
+SSE - Iteration 3: 1945.924294678846
+SSE - Iteration 4: 1909.2573039405825
+SSE - Iteration 5: 1875.8819187757172
+SSE - Iteration 6: 1856.0425929238338
+SSE - Iteration 7: 1842.765259448458
+SSE - Iteration 8: 1833.8258173903512
+SSE - Iteration 9: 1826.84144100046
+SSE - Iteration 10: 1823.0991908064864
+SSE - Iteration 11: 1820.8006857246228
+SSE - Iteration 12: 1818.6205491014425
+SSE - Iteration 13: 1816.574963015958
+SSE - Iteration 14: 1814.310680728506
+SSE - Iteration 15: 1811.3999490421813
+SSE - Iteration 16: 1806.9720656548834
+SSE - Iteration 17: 1802.797459178301
+SSE - Iteration 18: 1800.0170570491878
+SSE - Iteration 19: 1797.885234494127
+SSE - Iteration 20: 1796.3077447139653
+Initial SSE: 2418.814561597058
+Final SSE: 1796.3077447139653
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 6411 ms
+Total Runtime: 6515 ms
+Silhouette Time: 2540ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 79
+SSE - Iteration 0: 2345.802518314956
+SSE - Iteration 1: 2060.3283127822947
+SSE - Iteration 2: 1974.8134509673444
+SSE - Iteration 3: 1928.2496625652295
+SSE - Iteration 4: 1898.0293382928282
+SSE - Iteration 5: 1880.9055721719008
+SSE - Iteration 6: 1869.4533290259524
+SSE - Iteration 7: 1861.0834593933112
+SSE - Iteration 8: 1854.6082410669708
+SSE - Iteration 9: 1850.013543220626
+SSE - Iteration 10: 1845.7175756788247
+SSE - Iteration 11: 1841.219890819244
+SSE - Iteration 12: 1837.1031169217013
+SSE - Iteration 13: 1833.5090139893991
+SSE - Iteration 14: 1829.4010590736866
+SSE - Iteration 15: 1825.8506567795223
+SSE - Iteration 16: 1822.811560391755
+SSE - Iteration 17: 1819.6001474028599
+SSE - Iteration 18: 1816.5436794431387
+SSE - Iteration 19: 1813.650334832495
+SSE - Iteration 20: 1810.6977296981042
+SSE - Iteration 21: 1807.9465454622195
+SSE - Iteration 22: 1806.0417321719003
+SSE - Iteration 23: 1804.1189395367298
+SSE - Iteration 24: 1802.5026379116375
+Initial SSE: 2345.802518314956
+Final SSE: 1802.5026379116375
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 9134 ms
+Total Runtime: 9237 ms
+Silhouette Time: 2584ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 80
+SSE - Iteration 0: 2368.7643902281034
+SSE - Iteration 1: 2034.504884120825
+SSE - Iteration 2: 1949.651724160008
+SSE - Iteration 3: 1904.7944870815993
+SSE - Iteration 4: 1876.2554824082877
+SSE - Iteration 5: 1855.858657661734
+SSE - Iteration 6: 1840.258466061519
+SSE - Iteration 7: 1831.397365862774
+SSE - Iteration 8: 1825.2587606179
+SSE - Iteration 9: 1820.2379845618614
+SSE - Iteration 10: 1814.5601702900183
+SSE - Iteration 11: 1809.9382729917718
+SSE - Iteration 12: 1807.6851143565802
+SSE - Iteration 13: 1805.732116406494
+SSE - Iteration 14: 1804.0693896822038
+Initial SSE: 2368.7643902281034
+Final SSE: 1804.0693896822038
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 3364 ms
+Total Runtime: 3468 ms
+Silhouette Time: 2636ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 81
+SSE - Iteration 0: 2351.1311999869095
+SSE - Iteration 1: 2079.4314921057016
+SSE - Iteration 2: 2009.793126945562
+SSE - Iteration 3: 1969.6308810097937
+SSE - Iteration 4: 1938.5353700844134
+SSE - Iteration 5: 1916.8160693228588
+SSE - Iteration 6: 1902.3199641699598
+SSE - Iteration 7: 1890.5637580211296
+SSE - Iteration 8: 1881.0187737504975
+SSE - Iteration 9: 1871.8681818547286
+SSE - Iteration 10: 1861.9185351237095
+SSE - Iteration 11: 1853.2459118003742
+SSE - Iteration 12: 1846.6148137554733
+SSE - Iteration 13: 1840.3688043182128
+SSE - Iteration 14: 1835.1862959095859
+SSE - Iteration 15: 1830.893709697027
+SSE - Iteration 16: 1827.536163529829
+SSE - Iteration 17: 1825.2750724542816
+SSE - Iteration 18: 1823.5746322512477
+Initial SSE: 2351.1311999869095
+Final SSE: 1823.5746322512477
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 98 ms
+Clustering Runtime: 5357 ms
+Total Runtime: 5460 ms
+Silhouette Time: 2548ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 82
+SSE - Iteration 0: 2324.6972896319603
+SSE - Iteration 1: 2056.351040768416
+SSE - Iteration 2: 1973.5964557516238
+SSE - Iteration 3: 1930.8726640253456
+SSE - Iteration 4: 1904.6612435686216
+SSE - Iteration 5: 1888.252536600365
+SSE - Iteration 6: 1875.465857975953
+SSE - Iteration 7: 1863.4189096664709
+SSE - Iteration 8: 1852.902528035035
+SSE - Iteration 9: 1844.730515645173
+SSE - Iteration 10: 1839.476097154611
+SSE - Iteration 11: 1835.3899793959795
+SSE - Iteration 12: 1832.8392711432039
+SSE - Iteration 13: 1830.5667506754087
+SSE - Iteration 14: 1826.978629260672
+SSE - Iteration 15: 1823.030203184371
+SSE - Iteration 16: 1819.7357252757754
+SSE - Iteration 17: 1817.5565510296806
+SSE - Iteration 18: 1816.2225300574567
+Initial SSE: 2324.6972896319603
+Final SSE: 1816.2225300574567
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 5320 ms
+Total Runtime: 5425 ms
+Silhouette Time: 2563ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 83
+SSE - Iteration 0: 2309.3263286617985
+SSE - Iteration 1: 2044.665345598137
+SSE - Iteration 2: 1979.5531664089824
+SSE - Iteration 3: 1945.7679521514794
+SSE - Iteration 4: 1920.5502772728144
+SSE - Iteration 5: 1902.0823219120434
+SSE - Iteration 6: 1886.398021890162
+SSE - Iteration 7: 1869.6862850755463
+SSE - Iteration 8: 1859.6790847134946
+SSE - Iteration 9: 1851.8999151202268
+SSE - Iteration 10: 1845.1324720605057
+SSE - Iteration 11: 1839.4263320267953
+SSE - Iteration 12: 1834.9011202675176
+SSE - Iteration 13: 1831.8090188245485
+SSE - Iteration 14: 1828.8128216497548
+SSE - Iteration 15: 1825.0852766575172
+SSE - Iteration 16: 1819.2173319610429
+SSE - Iteration 17: 1813.2077644720641
+SSE - Iteration 18: 1808.7247632476474
+SSE - Iteration 19: 1805.8856056624877
+SSE - Iteration 20: 1802.891554266029
+SSE - Iteration 21: 1800.111310338919
+SSE - Iteration 22: 1796.0958140068237
+SSE - Iteration 23: 1794.3397394461672
+Initial SSE: 2309.3263286617985
+Final SSE: 1794.3397394461672
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 8458 ms
+Total Runtime: 8561 ms
+Silhouette Time: 2485ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 84
+SSE - Iteration 0: 2369.933625038338
+SSE - Iteration 1: 2076.379550807906
+SSE - Iteration 2: 1993.9288672499142
+SSE - Iteration 3: 1945.7354934598773
+SSE - Iteration 4: 1914.4554850175532
+SSE - Iteration 5: 1895.5630486117795
+SSE - Iteration 6: 1881.7833262509894
+SSE - Iteration 7: 1871.0855847809498
+SSE - Iteration 8: 1861.3192276604882
+SSE - Iteration 9: 1852.117922752658
+SSE - Iteration 10: 1844.5034270080826
+SSE - Iteration 11: 1838.9978630341182
+SSE - Iteration 12: 1834.5768190950264
+SSE - Iteration 13: 1831.1702692305312
+SSE - Iteration 14: 1827.9672863756293
+SSE - Iteration 15: 1825.1402894781436
+SSE - Iteration 16: 1822.695117652786
+SSE - Iteration 17: 1819.7746457308488
+SSE - Iteration 18: 1816.5145472334839
+SSE - Iteration 19: 1813.4063920334174
+SSE - Iteration 20: 1810.5644189761317
+SSE - Iteration 21: 1807.5595579504677
+SSE - Iteration 22: 1805.0690822489416
+SSE - Iteration 23: 1802.6552035851232
+SSE - Iteration 24: 1800.251697095704
+SSE - Iteration 25: 1798.6693066146638
+Initial SSE: 2369.933625038338
+Final SSE: 1798.6693066146638
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 107 ms
+Clustering Runtime: 10038 ms
+Total Runtime: 10149 ms
+Silhouette Time: 2669ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 85
+SSE - Iteration 0: 2396.2793638637495
+SSE - Iteration 1: 2097.80863854674
+SSE - Iteration 2: 2009.3612072376677
+SSE - Iteration 3: 1956.6286259041847
+SSE - Iteration 4: 1925.433504689209
+SSE - Iteration 5: 1902.6510828837427
+SSE - Iteration 6: 1883.9570796018265
+SSE - Iteration 7: 1868.6185271329584
+SSE - Iteration 8: 1855.69354051722
+SSE - Iteration 9: 1846.841550134875
+SSE - Iteration 10: 1839.3208653356178
+SSE - Iteration 11: 1832.065973124173
+SSE - Iteration 12: 1824.6104970264762
+SSE - Iteration 13: 1817.893547503574
+SSE - Iteration 14: 1813.0895633141165
+SSE - Iteration 15: 1810.5615581330057
+SSE - Iteration 16: 1808.787357480053
+Initial SSE: 2396.2793638637495
+Final SSE: 1808.787357480053
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 4284 ms
+Total Runtime: 4388 ms
+Silhouette Time: 2573ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 86
+SSE - Iteration 0: 2373.424785296655
+SSE - Iteration 1: 2088.6077003347727
+SSE - Iteration 2: 2002.349831464212
+SSE - Iteration 3: 1951.2887462951637
+SSE - Iteration 4: 1919.295756237116
+SSE - Iteration 5: 1896.6128418443877
+SSE - Iteration 6: 1880.1020527225464
+SSE - Iteration 7: 1866.1395667180589
+SSE - Iteration 8: 1854.1038451553454
+SSE - Iteration 9: 1845.3422521021785
+SSE - Iteration 10: 1837.6922361621855
+SSE - Iteration 11: 1829.6368013489623
+SSE - Iteration 12: 1822.324864356
+SSE - Iteration 13: 1815.8205986618918
+SSE - Iteration 14: 1809.8268843191793
+SSE - Iteration 15: 1806.3278401956672
+SSE - Iteration 16: 1803.753259283206
+SSE - Iteration 17: 1801.0128478077386
+SSE - Iteration 18: 1797.9707263290525
+SSE - Iteration 19: 1795.0478562629035
+SSE - Iteration 20: 1792.0536695643452
+SSE - Iteration 21: 1789.3839781967474
+SSE - Iteration 22: 1787.022047416054
+SSE - Iteration 23: 1785.1438637284828
+SSE - Iteration 24: 1783.893380711605
+Initial SSE: 2373.424785296655
+Final SSE: 1783.893380711605
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 102 ms
+Clustering Runtime: 9187 ms
+Total Runtime: 9294 ms
+Silhouette Time: 2592ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 87
+SSE - Iteration 0: 2500.7820707536403
+SSE - Iteration 1: 2069.114905576123
+SSE - Iteration 2: 1972.3614704549857
+SSE - Iteration 3: 1933.950173280571
+SSE - Iteration 4: 1911.205039123527
+SSE - Iteration 5: 1893.1250877019124
+SSE - Iteration 6: 1878.1972609130332
+SSE - Iteration 7: 1867.587430826801
+SSE - Iteration 8: 1859.6975647780541
+SSE - Iteration 9: 1853.5271958114968
+SSE - Iteration 10: 1848.0692394602422
+SSE - Iteration 11: 1842.7531220784322
+SSE - Iteration 12: 1837.3879458908611
+SSE - Iteration 13: 1833.0165644790636
+SSE - Iteration 14: 1829.8067333942724
+SSE - Iteration 15: 1827.2744949158093
+SSE - Iteration 16: 1824.8542958626376
+SSE - Iteration 17: 1822.315548651276
+SSE - Iteration 18: 1818.9622822026665
+SSE - Iteration 19: 1814.4925450287453
+SSE - Iteration 20: 1811.7667978225732
+SSE - Iteration 21: 1809.900898386246
+SSE - Iteration 22: 1808.6447399555577
+Initial SSE: 2500.7820707536403
+Final SSE: 1808.6447399555577
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 104 ms
+Clustering Runtime: 7711 ms
+Total Runtime: 7820 ms
+Silhouette Time: 2638ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 88
+SSE - Iteration 0: 2352.416617232634
+SSE - Iteration 1: 2045.8725737688128
+SSE - Iteration 2: 1972.261274535127
+SSE - Iteration 3: 1934.2093110711112
+SSE - Iteration 4: 1906.6642894526594
+SSE - Iteration 5: 1887.90886912301
+SSE - Iteration 6: 1871.8791622020303
+SSE - Iteration 7: 1858.74540247386
+SSE - Iteration 8: 1848.5476058205304
+SSE - Iteration 9: 1841.6776959736494
+SSE - Iteration 10: 1835.9320188234142
+SSE - Iteration 11: 1830.6432578368904
+SSE - Iteration 12: 1826.555802724471
+SSE - Iteration 13: 1823.87321187522
+SSE - Iteration 14: 1821.730999693018
+SSE - Iteration 15: 1819.9539512326742
+Initial SSE: 2352.416617232634
+Final SSE: 1819.9539512326742
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 3800 ms
+Total Runtime: 3909 ms
+Silhouette Time: 2636ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 89
+SSE - Iteration 0: 2380.674650011113
+SSE - Iteration 1: 2057.4887120062285
+SSE - Iteration 2: 1980.0473730923952
+SSE - Iteration 3: 1938.1796888286858
+SSE - Iteration 4: 1914.980163804381
+SSE - Iteration 5: 1898.9843783851015
+SSE - Iteration 6: 1884.1811902694578
+SSE - Iteration 7: 1867.2907855931592
+SSE - Iteration 8: 1853.2774237955566
+SSE - Iteration 9: 1844.644645085215
+SSE - Iteration 10: 1838.4473387206049
+SSE - Iteration 11: 1833.1667907662368
+SSE - Iteration 12: 1829.1376878313185
+SSE - Iteration 13: 1825.4798843185283
+SSE - Iteration 14: 1822.5132823431402
+SSE - Iteration 15: 1818.3355810504731
+SSE - Iteration 16: 1815.5309317758408
+SSE - Iteration 17: 1812.6655995265298
+SSE - Iteration 18: 1809.8010517299729
+SSE - Iteration 19: 1807.2858865176465
+SSE - Iteration 20: 1804.9607312515718
+SSE - Iteration 21: 1802.956522749907
+SSE - Iteration 22: 1801.0764296184898
+SSE - Iteration 23: 1799.5585540549118
+Initial SSE: 2380.674650011113
+Final SSE: 1799.5585540549118
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 8375 ms
+Total Runtime: 8479 ms
+Silhouette Time: 2552ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 90
+SSE - Iteration 0: 2359.9057615624774
+SSE - Iteration 1: 2061.712940915943
+SSE - Iteration 2: 1984.5383997158985
+SSE - Iteration 3: 1946.604074416683
+SSE - Iteration 4: 1920.730058426131
+SSE - Iteration 5: 1901.2167248022063
+SSE - Iteration 6: 1884.4811003697882
+SSE - Iteration 7: 1869.9715452080666
+SSE - Iteration 8: 1860.4206640306613
+SSE - Iteration 9: 1853.53016591273
+SSE - Iteration 10: 1846.697354585224
+SSE - Iteration 11: 1841.9555606976996
+SSE - Iteration 12: 1838.5139020526299
+SSE - Iteration 13: 1835.829608650256
+SSE - Iteration 14: 1833.9136369525
+SSE - Iteration 15: 1832.5687400299212
+Initial SSE: 2359.9057615624774
+Final SSE: 1832.5687400299212
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 3835 ms
+Total Runtime: 3939 ms
+Silhouette Time: 2552ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 91
+SSE - Iteration 0: 2375.379717285076
+SSE - Iteration 1: 2051.0260555868576
+SSE - Iteration 2: 1963.5812508785134
+SSE - Iteration 3: 1920.5337905438303
+SSE - Iteration 4: 1894.0346073744286
+SSE - Iteration 5: 1875.399434277711
+SSE - Iteration 6: 1862.8428302663417
+SSE - Iteration 7: 1854.8991005256898
+SSE - Iteration 8: 1848.8244647582007
+SSE - Iteration 9: 1843.2214402455518
+SSE - Iteration 10: 1837.5487583469703
+SSE - Iteration 11: 1832.4914863694933
+SSE - Iteration 12: 1828.3812401106798
+SSE - Iteration 13: 1824.8511702102714
+SSE - Iteration 14: 1820.961823506629
+SSE - Iteration 15: 1816.878008754033
+SSE - Iteration 16: 1812.501503862941
+SSE - Iteration 17: 1808.733088042142
+SSE - Iteration 18: 1805.8798470126317
+SSE - Iteration 19: 1804.1388643021955
+Initial SSE: 2375.379717285076
+Final SSE: 1804.1388643021955
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 105 ms
+Clustering Runtime: 5882 ms
+Total Runtime: 5992 ms
+Silhouette Time: 2540ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 92
+SSE - Iteration 0: 2363.8239656661362
+SSE - Iteration 1: 2035.5447294889252
+SSE - Iteration 2: 1949.8323574795743
+SSE - Iteration 3: 1910.656337497033
+SSE - Iteration 4: 1886.001989672857
+SSE - Iteration 5: 1866.7517202306944
+SSE - Iteration 6: 1851.734208978221
+SSE - Iteration 7: 1840.0119075852172
+SSE - Iteration 8: 1831.2067376405987
+SSE - Iteration 9: 1825.6520628594374
+SSE - Iteration 10: 1821.6602008626162
+SSE - Iteration 11: 1818.5258731956703
+SSE - Iteration 12: 1816.2046260059465
+SSE - Iteration 13: 1814.5470409700504
+Initial SSE: 2363.8239656661362
+Final SSE: 1814.5470409700504
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 103 ms
+Clustering Runtime: 2931 ms
+Total Runtime: 3038 ms
+Silhouette Time: 2637ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 93
+SSE - Iteration 0: 2459.0068823118704
+SSE - Iteration 1: 2122.5575018782697
+SSE - Iteration 2: 2023.646383556619
+SSE - Iteration 3: 1971.7871125842566
+SSE - Iteration 4: 1941.4532078466402
+SSE - Iteration 5: 1917.5801458994727
+SSE - Iteration 6: 1897.0295200217968
+SSE - Iteration 7: 1879.9897064866886
+SSE - Iteration 8: 1865.0537701384262
+SSE - Iteration 9: 1855.0867248685565
+SSE - Iteration 10: 1846.5946662176623
+SSE - Iteration 11: 1840.8486515918255
+SSE - Iteration 12: 1835.8541414983563
+SSE - Iteration 13: 1831.2233085587125
+SSE - Iteration 14: 1827.3310674609502
+SSE - Iteration 15: 1823.8261177162767
+SSE - Iteration 16: 1821.0590278105872
+SSE - Iteration 17: 1818.0335510505163
+SSE - Iteration 18: 1815.1523697287594
+SSE - Iteration 19: 1812.1451388677258
+SSE - Iteration 20: 1809.4661994410424
+SSE - Iteration 21: 1807.4777224787085
+SSE - Iteration 22: 1806.1149170691833
+Initial SSE: 2459.0068823118704
+Final SSE: 1806.1149170691833
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 101 ms
+Clustering Runtime: 7770 ms
+Total Runtime: 7875 ms
+Silhouette Time: 2575ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 94
+SSE - Iteration 0: 2351.7587593334283
+SSE - Iteration 1: 2064.2699043026555
+SSE - Iteration 2: 1981.6910637157948
+SSE - Iteration 3: 1940.0523410954509
+SSE - Iteration 4: 1908.9292535813408
+SSE - Iteration 5: 1884.4237063345056
+SSE - Iteration 6: 1864.1465993303743
+SSE - Iteration 7: 1850.730728252618
+SSE - Iteration 8: 1841.5880966464915
+SSE - Iteration 9: 1833.4926124867889
+SSE - Iteration 10: 1827.540126843812
+SSE - Iteration 11: 1822.7979165227553
+SSE - Iteration 12: 1819.3234728339905
+SSE - Iteration 13: 1816.5831747521215
+SSE - Iteration 14: 1814.388124911403
+SSE - Iteration 15: 1812.7121446566423
+Initial SSE: 2351.7587593334283
+Final SSE: 1812.7121446566423
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 3781 ms
+Total Runtime: 3886 ms
+Silhouette Time: 2658ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 95
+SSE - Iteration 0: 2310.7592821499643
+SSE - Iteration 1: 2034.2723108790096
+SSE - Iteration 2: 1957.7369476633623
+SSE - Iteration 3: 1913.272704713819
+SSE - Iteration 4: 1887.4180417532111
+SSE - Iteration 5: 1871.9175567671994
+SSE - Iteration 6: 1859.5160147602028
+SSE - Iteration 7: 1849.5580234443075
+SSE - Iteration 8: 1841.6617601466082
+SSE - Iteration 9: 1835.3619979295606
+SSE - Iteration 10: 1829.2756537076518
+SSE - Iteration 11: 1822.997562148259
+SSE - Iteration 12: 1816.652772196536
+SSE - Iteration 13: 1810.550414065491
+SSE - Iteration 14: 1805.724728818007
+SSE - Iteration 15: 1802.4317903042902
+SSE - Iteration 16: 1800.1603909782084
+SSE - Iteration 17: 1798.3145892957693
+SSE - Iteration 18: 1796.6955254550937
+Initial SSE: 2310.7592821499643
+Final SSE: 1796.6955254550937
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 5335 ms
+Total Runtime: 5439 ms
+Silhouette Time: 2583ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 96
+SSE - Iteration 0: 2400.075788625287
+SSE - Iteration 1: 2067.8143538592526
+SSE - Iteration 2: 1977.6284692907304
+SSE - Iteration 3: 1931.1917444679707
+SSE - Iteration 4: 1904.27635189546
+SSE - Iteration 5: 1888.591394907951
+SSE - Iteration 6: 1876.954426707707
+SSE - Iteration 7: 1868.55576838063
+SSE - Iteration 8: 1860.5311739678075
+SSE - Iteration 9: 1851.4608644183209
+SSE - Iteration 10: 1843.3229661850007
+SSE - Iteration 11: 1838.4498250962251
+SSE - Iteration 12: 1835.3045211523397
+SSE - Iteration 13: 1833.1639618732577
+SSE - Iteration 14: 1831.5759630640396
+Initial SSE: 2400.075788625287
+Final SSE: 1831.5759630640396
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 104 ms
+Clustering Runtime: 3401 ms
+Total Runtime: 3510 ms
+Silhouette Time: 2505ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Run: 97
+SSE - Iteration 0: 2351.2571273758717
+SSE - Iteration 1: 2074.7269431250015
+SSE - Iteration 2: 1994.3145918985565
+SSE - Iteration 3: 1944.3468508260185
+SSE - Iteration 4: 1915.8923895380256
+SSE - Iteration 5: 1899.8134338212092
+SSE - Iteration 6: 1887.7426684985674
+SSE - Iteration 7: 1876.4562530727699
+SSE - Iteration 8: 1866.0692009410513
+SSE - Iteration 9: 1855.7165853849838
+SSE - Iteration 10: 1846.9697717715935
+SSE - Iteration 11: 1841.1556494892175
+SSE - Iteration 12: 1836.9411438670818
+SSE - Iteration 13: 1832.7579139021304
+SSE - Iteration 14: 1828.7434952627991
+SSE - Iteration 15: 1825.8223818744539
+SSE - Iteration 16: 1823.2224497078969
+SSE - Iteration 17: 1820.8014277687137
+SSE - Iteration 18: 1818.2152035950826
+SSE - Iteration 19: 1815.6208855763616
+SSE - Iteration 20: 1813.006722957187
+SSE - Iteration 21: 1810.2548949523198
+SSE - Iteration 22: 1807.7481682133548
+SSE - Iteration 23: 1805.8630620229558
+SSE - Iteration 24: 1804.4006210150224
+Initial SSE: 2351.2571273758717
+Final SSE: 1804.4006210150224
+
+Data Normilization Type: minmax
+Data Normalization: 6 ms
+Center Selection Type: maximin
+Center Selection: 103 ms
+Clustering Runtime: 9130 ms
+Total Runtime: 9239 ms
+Silhouette Time: 2628ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 98
+SSE - Iteration 0: 2366.658423521244
+SSE - Iteration 1: 2063.8269588735893
+SSE - Iteration 2: 1980.8185080076044
+SSE - Iteration 3: 1934.4537947794142
+SSE - Iteration 4: 1903.4994762712333
+SSE - Iteration 5: 1884.5474918748507
+SSE - Iteration 6: 1870.4690826756716
+SSE - Iteration 7: 1859.4067152096638
+SSE - Iteration 8: 1849.3811025613802
+SSE - Iteration 9: 1842.438058998159
+SSE - Iteration 10: 1836.5026351605957
+SSE - Iteration 11: 1831.1534167974787
+SSE - Iteration 12: 1825.6518544853477
+SSE - Iteration 13: 1821.0101611328284
+SSE - Iteration 14: 1817.5740181455953
+SSE - Iteration 15: 1815.6083007202008
+SSE - Iteration 16: 1814.0855879011947
+Initial SSE: 2366.658423521244
+Final SSE: 1814.0855879011947
+
+Data Normilization Type: minmax
+Data Normalization: 4 ms
+Center Selection Type: maximin
+Center Selection: 100 ms
+Clustering Runtime: 4378 ms
+Total Runtime: 4482 ms
+Silhouette Time: 2516ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 99
+SSE - Iteration 0: 2323.9372145106613
+SSE - Iteration 1: 2063.3806247704206
+SSE - Iteration 2: 1993.4267060487248
+SSE - Iteration 3: 1954.9976949262293
+SSE - Iteration 4: 1931.2524036991465
+SSE - Iteration 5: 1914.1732797516224
+SSE - Iteration 6: 1900.4895743911627
+SSE - Iteration 7: 1886.501858859086
+SSE - Iteration 8: 1874.6136599728625
+SSE - Iteration 9: 1865.358042401815
+SSE - Iteration 10: 1856.3626123425609
+SSE - Iteration 11: 1846.2050838577704
+SSE - Iteration 12: 1839.4258032238924
+SSE - Iteration 13: 1832.8989835251077
+SSE - Iteration 14: 1826.3359921426493
+SSE - Iteration 15: 1820.9903164128034
+SSE - Iteration 16: 1817.5624178144137
+SSE - Iteration 17: 1815.3552676168745
+SSE - Iteration 18: 1813.6330185313539
+Initial SSE: 2323.9372145106613
+Final SSE: 1813.6330185313539
+
+Data Normilization Type: minmax
+Data Normalization: 5 ms
+Center Selection Type: maximin
+Center Selection: 99 ms
+Clustering Runtime: 5322 ms
+Total Runtime: 5426 ms
+Silhouette Time: 2531ms
+C.H. Time: 4ms
+D.B. Time: 9ms
+
+
+Run: 100
+SSE - Iteration 0: 2390.168922623182
+SSE - Iteration 1: 2090.853949727224
+SSE - Iteration 2: 2014.052254534947
+SSE - Iteration 3: 1969.9176324678665
+SSE - Iteration 4: 1936.299062245401
+SSE - Iteration 5: 1913.7018005302164
+SSE - Iteration 6: 1900.032862801789
+SSE - Iteration 7: 1887.851096397967
+SSE - Iteration 8: 1874.2584110333926
+SSE - Iteration 9: 1862.5728396096908
+SSE - Iteration 10: 1850.367413875545
+SSE - Iteration 11: 1842.1035401589447
+SSE - Iteration 12: 1835.815887357924
+SSE - Iteration 13: 1832.595714560503
+SSE - Iteration 14: 1830.5034802710036
+SSE - Iteration 15: 1828.7615006200294
+Initial SSE: 2390.168922623182
+Final SSE: 1828.7615006200294
+
+Data Normilization Type: minmax
+Data Normalization: 8 ms
+Center Selection Type: maximin
+Center Selection: 108 ms
+Clustering Runtime: 3907 ms
+Total Runtime: 4023 ms
+Silhouette Time: 2508ms
+C.H. Time: 4ms
+D.B. Time: 10ms
+
+
+Best Initial SSE: 2250.1870231113644(Run 77)
+Best SSE: 1780.7723649497962(Run 77)
+Best Number of Iterations: 5
+Silhouette Width Index: 0.786440791396335
+Calinski-Harabaz Index: 832.406222251367
+Davies-Bouldin Index: 0.025246610976340105
