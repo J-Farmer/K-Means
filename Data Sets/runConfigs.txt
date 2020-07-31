@@ -1,0 +1,99 @@
+ecoli.txt 8 100 0.001 100 none none
+ecoli.txt 8 100 0.001 100 minmax none
+ecoli.txt 8 100 0.001 100 zscore none
+ecoli.txt 8 100 0.001 100 none randompartition
+ecoli.txt 8 100 0.001 100 none minmax
+ecoli.txt 8 100 0.001 100 minmax randompartition
+ecoli.txt 8 100 0.001 100 zscore randompartition
+ecoli.txt 8 100 0.001 100 minmax minmax
+ecoli.txt 8 100 0.001 100 zscore minmax
+
+glass.txt 6 100 0.001 100 none none
+glass.txt 6 100 0.001 100 minmax none
+glass.txt 6 100 0.001 100 zscore none
+glass.txt 6 100 0.001 100 none randompartition
+glass.txt 6 100 0.001 100 none minmax
+glass.txt 6 100 0.001 100 minmax randompartition
+glass.txt 6 100 0.001 100 zscore randompartition
+glass.txt 6 100 0.001 100 minmax minmax
+glass.txt 6 100 0.001 100 zscore minmax
+
+ionosphere.txt 2 100 0.001 100 none none
+ionosphere.txt 2 100 0.001 100 minmax none
+ionosphere.txt 2 100 0.001 100 zscore none
+ionosphere.txt 2 100 0.001 100 none randompartition
+ionosphere.txt 2 100 0.001 100 none minmax
+ionosphere.txt 2 100 0.001 100 minmax randompartition
+ionosphere.txt 2 100 0.001 100 zscore randompartition
+ionosphere.txt 2 100 0.001 100 minmax minmax
+ionosphere.txt 2 100 0.001 100 zscore minmax
+
+iris_bezdek.txt 3 100 0.001 100 none none
+iris_bezdek.txt 3 100 0.001 100 minmax none
+iris_bezdek.txt 3 100 0.001 100 zscore none
+iris_bezdek.txt 3 100 0.001 100 none randompartition
+iris_bezdek.txt 3 100 0.001 100 none minmax
+iris_bezdek.txt 3 100 0.001 100 minmax randompartition
+iris_bezdek.txt 3 100 0.001 100 zscore randompartition
+iris_bezdek.txt 3 100 0.001 100 minmax minmax
+iris_bezdek.txt 3 100 0.001 100 zscore minmax
+
+landsat.txt 6 100 0.001 100 none none
+landsat.txt 6 100 0.001 100 minmax none
+landsat.txt 6 100 0.001 100 zscore none
+landsat.txt 6 100 0.001 100 none randompartition
+landsat.txt 6 100 0.001 100 none minmax
+landsat.txt 6 100 0.001 100 minmax randompartition
+landsat.txt 6 100 0.001 100 zscore randompartition
+landsat.txt 6 100 0.001 100 minmax minmax
+landsat.txt 6 100 0.001 100 zscore minmax
+
+letter_recognition.txt 26 100 0.001 100 none none
+letter_recognition.txt 26 100 0.001 100 minmax none
+letter_recognition.txt 26 100 0.001 100 zscore none
+letter_recognition.txt 26 100 0.001 100 none randompartition
+letter_recognition.txt 26 100 0.001 100 none minmax
+letter_recognition.txt 26 100 0.001 100 minmax randompartition
+letter_recognition.txt 26 100 0.001 100 zscore randompartition
+letter_recognition.txt 26 100 0.001 100 minmax minmax
+letter_recognition.txt 26 100 0.001 100 zscore minmax
+
+segmentation.txt 7 100 0.001 100 none none
+segmentation.txt 7 100 0.001 100 minmax none
+segmentation.txt 7 100 0.001 100 zscore none
+segmentation.txt 7 100 0.001 100 none randompartition
+segmentation.txt 7 100 0.001 100 none minmax
+segmentation.txt 7 100 0.001 100 minmax randompartition
+segmentation.txt 7 100 0.001 100 zscore randompartition
+segmentation.txt 7 100 0.001 100 minmax minmax
+segmentation.txt 7 100 0.001 100 zscore minmax
+
+vehicle.txt 4 100 0.001 100 none none
+vehicle.txt 4 100 0.001 100 minmax none
+vehicle.txt 4 100 0.001 100 zscore none
+vehicle.txt 4 100 0.001 100 none randompartition
+vehicle.txt 4 100 0.001 100 none minmax
+vehicle.txt 4 100 0.001 100 minmax randompartition
+vehicle.txt 4 100 0.001 100 zscore randompartition
+vehicle.txt 4 100 0.001 100 minmax minmax
+vehicle.txt 4 100 0.001 100 zscore minmax
+
+wine.txt 4 100 0.001 100 none none
+wine.txt 4 100 0.001 100 minmax none
+wine.txt 4 100 0.001 100 zscore none
+wine.txt 4 100 0.001 100 none randompartition
+wine.txt 4 100 0.001 100 none minmax
+wine.txt 4 100 0.001 100 minmax randompartition
+wine.txt 4 100 0.001 100 zscore randompartition
+wine.txt 4 100 0.001 100 minmax minmax
+wine.txt 4 100 0.001 100 zscore minmax
+
+yeast.txt 10 100 0.001 100 none none
+yeast.txt 10 100 0.001 100 minmax none
+yeast.txt 10 100 0.001 100 zscore none
+yeast.txt 10 100 0.001 100 none randompartition
+yeast.txt 10 100 0.001 100 none minmax
+yeast.txt 10 100 0.001 100 minmax randompartition
+yeast.txt 10 100 0.001 100 zscore randompartition
+yeast.txt 10 100 0.001 100 minmax minmax
+yeast.txt 10 100 0.001 100 zscore minmax
