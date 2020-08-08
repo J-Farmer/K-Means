@@ -4,7 +4,7 @@ public class KMeansRunner {
 	{
 		double SSE = 0, lowestSSE = Double.POSITIVE_INFINITY, lowestInitSSE = Double.POSITIVE_INFINITY;
 		int SSErunIndex = Integer.MAX_VALUE, maxIter = Integer.MAX_VALUE, initSSErunIndex = Integer.MAX_VALUE, iterRunIndex = Integer.MAX_VALUE;
-		KMeans km = new KMeans("Data Sets\\"+args[0], Integer.parseInt(args[1]), Integer.parseInt(args[2]) , Double.parseDouble(args[3]));//, args[5], args[6]); 
+		KMeans km = new KMeans("..\\Data Sets\\"+args[0], Integer.parseInt(args[1]), Integer.parseInt(args[2]) , Double.parseDouble(args[3]));//, args[5], args[6]); 
 
 		for (int i = 0; i < 100; i++)
 		{

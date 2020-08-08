@@ -108,11 +108,6 @@ public class KMeans {
 			writeFile("Initial SSE: " + initialSSE); 
 			writeFile("Final SSE: " + sse); 
 			writeFile(""); 
-			
-			//writeFile("Data Normilization Type: " + dataNorm); 
-			//writeFile("Data Normalization: " + dataEnd + " ms");
-			//writeFile("Center Selection Type: " + centerType); 
-			//writeFile("Center Selection: " + centerEnd + " ms");
 			writeFile("Clustering Runtime: " + runtime + " ms");
 			writeFile("Total Runtime: " + (runtime + dataEnd + centerEnd) + " ms"); 
 			return true;
@@ -336,8 +331,14 @@ public class KMeans {
 	//Creates a directory for organization. 
 	public void openFiles()
 	{
-		int startIndex = this.file.indexOf("\\")+1;
-		String outFile = this.file.substring(startIndex, this.file.indexOf('.'));
+		int startIndex = this.file.lastIndexOf("\\");
+		String outFile = null;
+		
+		System.out.println(startIndex);
+		System.out.println(this.file);
+		System.out.println(this.file.indexOf('.'));
+	
+		outFile = this.file.substring(startIndex, this.file.indexOf(".txt"));
 		
 		String filePath = "Results\\";
 		
